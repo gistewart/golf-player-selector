@@ -11,7 +11,8 @@ class Players extends Component {
   };
 
   componentDidMount() {
-    this.loadPlayers();
+    // uncomment
+    // this.loadPlayers();
   }
 
   loadPlayers = () => {
