@@ -11,14 +11,14 @@ class Players extends Component {
   };
 
   componentDidMount() {
-    // uncomment
-    // this.loadPlayers();
+    this.loadPlayers();
   }
 
   loadPlayers = () => {
     API.getPlayers()
       .then(res => this.setState({ players: res.data }))
       .catch(err => console.log(err));
+    console.log("help");
   };
 
   render() {

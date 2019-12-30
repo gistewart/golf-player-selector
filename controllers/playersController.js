@@ -1,10 +1,10 @@
 const db = require("../models");
 
-// Defining methods for the playersController
-module.exports = {
-  findAll: function(req, res) {
-    db.Player.find(req.query)
-      .then(dbModel => res.json(dbModel))
-      .catch(err => res.status(422).json(err));
-  }
+// Defining methods for the booksController
+module.exports = function(app) {
+  app.get("/api/players", function(req, res) {
+    db.playerProfiles.findAll({}).then(function(dbPlayers) {
+      res.json(dbPlayers);
+    });
+  });
 };
