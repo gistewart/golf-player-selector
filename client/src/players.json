@@ -4,282 +4,302 @@
     "name": "Brooks Koepka",
     "money": "$9,684,006",
     "PhotoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000007.png",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "2",
     "name": "Rory McIlroy",
     "money": "$7,785,286",
     "PhotoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000965.png",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "3",
     "name": "Matt Kuchar",
     "money": "$6,294,690",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "4",
     "name": "Patrick Cantlay",
     "money": "$6,121,488",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "5",
     "name": "Gary Woodland",
     "money": "$5,690,965",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "6",
     "name": "Xander Schauffele",
     "money": "$5,609,456",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "7",
     "name": "Dustin Johnson",
     "money": "$5,534,619",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "8",
     "name": "Justin Thomas",
     "money": "$5,013,084",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "9",
     "name": "Jon Rahm",
     "money": "$4,990,110",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "10",
     "name": "Webb Simpson",
     "money": "$4,690,572",
-    "group": "A"
+    "group": 1
   },
   {
     "ranking": "11",
     "name": "Justin Rose",
     "money": "$4,358,849",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "12",
     "name": "Tony Finau",
     "money": "$4,344,380",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "13",
     "name": "Paul Casey",
     "money": "$4,257,040",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "14",
     "name": "Adam Scott",
     "money": "$4,084,541",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "15",
     "name": "Rickie Fowler",
     "money": "$3,945,810",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "16",
     "name": "Marc Leishman",
     "money": "$3,886,577",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "17",
     "name": "Tommy Fleetwood",
     "money": "$3,853,651",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "18",
     "name": "Chez Reavie",
     "money": "$3,660,909",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "19",
     "name": "Patrick Reed",
     "money": "$3,593,844",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "20",
     "name": "Shane Lowry",
     "money": "$3,490,098",
-    "group": "B"
+    "group": 2
   },
   {
     "ranking": "21",
     "name": "Kevin Kisner",
     "money": "$3,489,144",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "22",
     "name": "Francesco Molinari",
     "money": "$3,467,143",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "23",
     "name": "Hideki Matsuyama",
     "money": "$3,335,137",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "24",
     "name": "Tiger Woods",
     "money": "$3,199,615",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "25",
     "name": "Bryson DeChambeau",
     "money": "$3,186,232",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "26",
     "name": "Brandt Snedeker",
     "money": "$3,122,936",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "27",
     "name": "Charles Howell III",
     "money": "$3,039,049",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "28",
     "name": "Corey Conners",
     "money": "$2,919,864",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "29",
     "name": "Ryan Palmer",
     "money": "$2,873,316",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "30",
     "name": "Sungjae Im",
     "money": "$2,851,134",
-    "group": "C"
+    "group": 3
   },
   {
     "ranking": "31",
     "name": "Sung Kang",
-    "money": "$2,801,650"
+    "money": "$2,801,650",
+    "group": 4
   },
   {
     "ranking": "32",
     "name": "Abraham Ancer",
-    "money": "$2,688,625"
+    "money": "$2,688,625",
+    "group": 4
   },
   {
     "ranking": "33",
     "name": "Scott Piercy",
-    "money": "$2,679,915"
+    "money": "$2,679,915",
+    "group": 4
   },
   {
     "ranking": "34",
     "name": "Jim Furyk",
-    "money": "$2,669,938"
+    "money": "$2,669,938",
+    "group": 4
   },
   {
     "ranking": "35",
     "name": "Jason Day",
-    "money": "$2,637,480"
+    "money": "$2,637,480",
+    "group": 4
   },
   {
     "ranking": "36",
     "name": "Lucas Glover",
-    "money": "$2,613,965"
+    "money": "$2,613,965",
+    "group": 4
   },
   {
     "ranking": "37",
     "name": "Louis Oosthuizen",
-    "money": "$2,539,183"
+    "money": "$2,539,183",
+    "group": 4
   },
   {
     "ranking": "38",
     "name": "J.T. Poston",
-    "money": "$2,461,215"
+    "money": "$2,461,215",
+    "group": 4
   },
   {
     "ranking": "39",
     "name": "Phil Mickelson",
-    "money": "$2,440,221"
+    "money": "$2,440,221",
+    "group": 4
   },
   {
     "ranking": "40",
     "name": "Andrew Putnam",
-    "money": "$2,439,137"
+    "money": "$2,439,137",
+    "group": 4
   },
   {
     "ranking": "41",
     "name": "Keith Mitchell",
-    "money": "$2,405,360"
+    "money": "$2,405,360",
+    "group": 5
   },
   {
     "ranking": "42",
     "name": "Rory Sabbatini",
-    "money": "$2,382,298"
+    "money": "$2,382,298",
+    "group": 5
   },
   {
     "ranking": "43",
     "name": "C.T. Pan",
-    "money": "$2,362,399"
+    "money": "$2,362,399",
+    "group": 5
   },
   {
     "ranking": "44",
     "name": "Jason Kokrak",
-    "money": "$2,330,212"
+    "money": "$2,330,212",
+    "group": 5
   },
   {
     "ranking": "45",
     "name": "Kevin Tway",
-    "money": "$2,300,050"
+    "money": "$2,300,050",
+    "group": 5
   },
   {
     "ranking": "46",
     "name": "Kevin Na",
-    "money": "$2,257,309"
+    "money": "$2,257,309",
+    "group": 5
   },
   {
     "ranking": "47",
     "name": "Si Woo Kim",
-    "money": "$2,191,808"
+    "money": "$2,191,808",
+    "group": 5
   },
   {
     "ranking": "48",
     "name": "Billy Horschel",
-    "money": "$2,187,249"
+    "money": "$2,187,249",
+    "group": 5
   },
   {
     "ranking": "49",
     "name": "Ian Poulter",
-    "money": "$2,162,306"
+    "money": "$2,162,306",
+    "group": 5
   },
   {
     "ranking": "50",
     "name": "J.B. Holmes",
-    "money": "$2,147,065"
+    "money": "$2,147,065",
+    "group": 5
   },
   {
     "ranking": "51",
