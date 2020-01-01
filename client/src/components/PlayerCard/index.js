@@ -4,8 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Row, Col, CardDeck } from "reactstrap";
 
 function PlayerCard(props) {
-  // const group = props.group;
-  // console.log(group);
   return (
     <CardDeck>
       <Row>
