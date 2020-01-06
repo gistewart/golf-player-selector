@@ -13,22 +13,22 @@ class App extends Component {
     players,
     filteredPlayers: [],
     selectedPlayers: [],
-    tier: 1
+    group: 1
   };
 
   componentDidMount() {
     const filteredPlayers = this.state.players.filter(
-      player => player.tier === 1
+      player => player.group === 1
     );
     this.setState({ filteredPlayers });
   }
 
   selectPlayer = name => {
-    this.setState({ tier: this.state.tier + 1 }, function() {
+    this.setState({ group: this.state.group + 1 }, function() {
       var joined = this.state.selectedPlayers.concat(name);
       this.setState({ selectedPlayers: joined });
       const filteredPlayers = this.state.players.filter(
-        player => player.tier === this.state.tier
+        player => player.group === this.state.group
       );
 
       this.setState({ filteredPlayers });
@@ -51,16 +51,18 @@ class App extends Component {
     if (this.state.selectedPlayers.length < 5) {
       return (
         <Wrapper>
-          <Title>Make Your Selection from Tier {this.state.tier} Golfers</Title>
+          <Title>
+            Make Your Selection from Tier {this.state.group} Golfers
+          </Title>
           {this.state.filteredPlayers.slice(0, 4).map(player => (
             <PlayerCard
               selectPlayer={this.selectPlayer}
               removePlayer={this.removePlayer}
               key={player.name}
-              group={player.tier}
-              ranking={player.rankingChg}
+              group={player.group}
+              ranking={player.ranking}
               name={player.name}
-              image={player.photoURL}
+              image={player.PhotoUrl}
               money={player.money}
             />
           ))}

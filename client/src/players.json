@@ -1,1379 +1,2917 @@
 [
-  {
-    "ranking": "1",
-    "name": "Brooks Koepka",
-    "money": "$9,684,006",
-    "PhotoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000007.png",
-    "group": 1
-  },
-  {
-    "ranking": "2",
-    "name": "Rory McIlroy",
-    "money": "$7,785,286",
-    "PhotoUrl": "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000965.png",
-    "group": 1
-  },
-  {
-    "ranking": "3",
-    "name": "Matt Kuchar",
-    "money": "$6,294,690",
-    "group": 1
-  },
-  {
-    "ranking": "4",
-    "name": "Patrick Cantlay",
-    "money": "$6,121,488",
-    "group": 1
-  },
-  {
-    "ranking": "5",
-    "name": "Gary Woodland",
-    "money": "$5,690,965",
-    "group": 1
-  },
-  {
-    "ranking": "6",
-    "name": "Xander Schauffele",
-    "money": "$5,609,456",
-    "group": 1
-  },
-  {
-    "ranking": "7",
-    "name": "Dustin Johnson",
-    "money": "$5,534,619",
-    "group": 1
-  },
-  {
-    "ranking": "8",
-    "name": "Justin Thomas",
-    "money": "$5,013,084",
-    "group": 1
-  },
-  {
-    "ranking": "9",
-    "name": "Jon Rahm",
-    "money": "$4,990,110",
-    "group": 1
-  },
-  {
-    "ranking": "10",
-    "name": "Webb Simpson",
-    "money": "$4,690,572",
-    "group": 1
-  },
-  {
-    "ranking": "11",
-    "name": "Justin Rose",
-    "money": "$4,358,849",
-    "group": 2
-  },
-  {
-    "ranking": "12",
-    "name": "Tony Finau",
-    "money": "$4,344,380",
-    "group": 2
-  },
-  {
-    "ranking": "13",
-    "name": "Paul Casey",
-    "money": "$4,257,040",
-    "group": 2
-  },
-  {
-    "ranking": "14",
-    "name": "Adam Scott",
-    "money": "$4,084,541",
-    "group": 2
-  },
-  {
-    "ranking": "15",
-    "name": "Rickie Fowler",
-    "money": "$3,945,810",
-    "group": 2
-  },
-  {
-    "ranking": "16",
-    "name": "Marc Leishman",
-    "money": "$3,886,577",
-    "group": 2
-  },
-  {
-    "ranking": "17",
-    "name": "Tommy Fleetwood",
-    "money": "$3,853,651",
-    "group": 2
-  },
-  {
-    "ranking": "18",
-    "name": "Chez Reavie",
-    "money": "$3,660,909",
-    "group": 2
-  },
-  {
-    "ranking": "19",
-    "name": "Patrick Reed",
-    "money": "$3,593,844",
-    "group": 2
-  },
-  {
-    "ranking": "20",
-    "name": "Shane Lowry",
-    "money": "$3,490,098",
-    "group": 2
-  },
-  {
-    "ranking": "21",
-    "name": "Kevin Kisner",
-    "money": "$3,489,144",
-    "group": 3
-  },
-  {
-    "ranking": "22",
-    "name": "Francesco Molinari",
-    "money": "$3,467,143",
-    "group": 3
-  },
-  {
-    "ranking": "23",
-    "name": "Hideki Matsuyama",
-    "money": "$3,335,137",
-    "group": 3
-  },
-  {
-    "ranking": "24",
-    "name": "Tiger Woods",
-    "money": "$3,199,615",
-    "group": 3
-  },
-  {
-    "ranking": "25",
-    "name": "Bryson DeChambeau",
-    "money": "$3,186,232",
-    "group": 3
-  },
-  {
-    "ranking": "26",
-    "name": "Brandt Snedeker",
-    "money": "$3,122,936",
-    "group": 3
-  },
-  {
-    "ranking": "27",
-    "name": "Charles Howell III",
-    "money": "$3,039,049",
-    "group": 3
-  },
-  {
-    "ranking": "28",
-    "name": "Corey Conners",
-    "money": "$2,919,864",
-    "group": 3
-  },
-  {
-    "ranking": "29",
-    "name": "Ryan Palmer",
-    "money": "$2,873,316",
-    "group": 3
-  },
-  {
-    "ranking": "30",
-    "name": "Sungjae Im",
-    "money": "$2,851,134",
-    "group": 3
-  },
-  {
-    "ranking": "31",
-    "name": "Sung Kang",
-    "money": "$2,801,650",
-    "group": 4
-  },
-  {
-    "ranking": "32",
-    "name": "Abraham Ancer",
-    "money": "$2,688,625",
-    "group": 4
-  },
-  {
-    "ranking": "33",
-    "name": "Scott Piercy",
-    "money": "$2,679,915",
-    "group": 4
-  },
-  {
-    "ranking": "34",
-    "name": "Jim Furyk",
-    "money": "$2,669,938",
-    "group": 4
-  },
-  {
-    "ranking": "35",
-    "name": "Jason Day",
-    "money": "$2,637,480",
-    "group": 4
-  },
-  {
-    "ranking": "36",
-    "name": "Lucas Glover",
-    "money": "$2,613,965",
-    "group": 4
-  },
-  {
-    "ranking": "37",
-    "name": "Louis Oosthuizen",
-    "money": "$2,539,183",
-    "group": 4
-  },
-  {
-    "ranking": "38",
-    "name": "J.T. Poston",
-    "money": "$2,461,215",
-    "group": 4
-  },
-  {
-    "ranking": "39",
-    "name": "Phil Mickelson",
-    "money": "$2,440,221",
-    "group": 4
-  },
-  {
-    "ranking": "40",
-    "name": "Andrew Putnam",
-    "money": "$2,439,137",
-    "group": 4
-  },
-  {
-    "ranking": "41",
-    "name": "Keith Mitchell",
-    "money": "$2,405,360",
-    "group": 5
-  },
-  {
-    "ranking": "42",
-    "name": "Rory Sabbatini",
-    "money": "$2,382,298",
-    "group": 5
-  },
-  {
-    "ranking": "43",
-    "name": "C.T. Pan",
-    "money": "$2,362,399",
-    "group": 5
-  },
-  {
-    "ranking": "44",
-    "name": "Jason Kokrak",
-    "money": "$2,330,212",
-    "group": 5
-  },
-  {
-    "ranking": "45",
-    "name": "Kevin Tway",
-    "money": "$2,300,050",
-    "group": 5
-  },
-  {
-    "ranking": "46",
-    "name": "Kevin Na",
-    "money": "$2,257,309",
-    "group": 5
-  },
-  {
-    "ranking": "47",
-    "name": "Si Woo Kim",
-    "money": "$2,191,808",
-    "group": 5
-  },
-  {
-    "ranking": "48",
-    "name": "Billy Horschel",
-    "money": "$2,187,249",
-    "group": 5
-  },
-  {
-    "ranking": "49",
-    "name": "Ian Poulter",
-    "money": "$2,162,306",
-    "group": 5
-  },
-  {
-    "ranking": "50",
-    "name": "J.B. Holmes",
-    "money": "$2,147,065",
-    "group": 5
-  },
-  {
-    "ranking": "51",
-    "name": "Jordan Spieth",
-    "money": "$2,124,192"
-  },
-  {
-    "ranking": "52",
-    "name": "Max Homa",
-    "money": "$2,063,606"
-  },
-  {
-    "ranking": "53",
-    "name": "Adam Hadwin",
-    "money": "$2,039,012"
-  },
-  {
-    "ranking": "54",
-    "name": "Nate Lashley",
-    "money": "$2,030,287"
-  },
-  {
-    "ranking": "55",
-    "name": "Byeong Hun An",
-    "money": "$1,990,033"
-  },
-  {
-    "ranking": "56",
-    "name": "Joel Dahmen",
-    "money": "$1,949,958"
-  },
-  {
-    "ranking": "57",
-    "name": "Rafa Cabrera Bello",
-    "money": "$1,926,935"
-  },
-  {
-    "ranking": "58",
-    "name": "Keegan Bradley",
-    "money": "$1,902,797"
-  },
-  {
-    "ranking": "59",
-    "name": "Ryan Moore",
-    "money": "$1,838,788"
-  },
-  {
-    "ranking": "60",
-    "name": "Sergio Garcia",
-    "money": "$1,793,027"
-  },
-  {
-    "ranking": "61",
-    "name": "Collin Morikawa",
-    "money": "$1,754,890"
-  },
-  {
-    "ranking": "62",
-    "name": "Emiliano Grillo",
-    "money": "$1,752,114"
-  },
-  {
-    "ranking": "63",
-    "name": "Vaughn Taylor",
-    "money": "$1,723,910"
-  },
-  {
-    "ranking": "64",
-    "name": "Cameron Champ",
-    "money": "$1,695,748"
-  },
-  {
-    "ranking": "65",
-    "name": "Graeme McDowell",
-    "money": "$1,671,523"
-  },
-  {
-    "ranking": "66",
-    "name": "Adam Long",
-    "money": "$1,648,007"
-  },
-  {
-    "ranking": "67",
-    "name": "Kiradech Aphibarnrat",
-    "money": "$1,630,073"
-  },
-  {
-    "ranking": "68",
-    "name": "Kevin Streelman",
-    "money": "$1,588,881"
-  },
-  {
-    "ranking": "69",
-    "name": "Dylan Frittelli",
-    "money": "$1,576,974"
-  },
-  {
-    "ranking": "70",
-    "name": "Jhonattan Vegas",
-    "money": "$1,566,910"
-  },
-  {
-    "ranking": "71",
-    "name": "Bubba Watson",
-    "money": "$1,558,014"
-  },
-  {
-    "ranking": "72",
-    "name": "Harold Varner III",
-    "money": "$1,553,149"
-  },
-  {
-    "ranking": "73",
-    "name": "Troy Merritt",
-    "money": "$1,531,143"
-  },
-  {
-    "ranking": "74",
-    "name": "Danny Lee",
-    "money": "$1,524,126"
-  },
-  {
-    "ranking": "75",
-    "name": "Tyrrell Hatton",
-    "money": "$1,517,396"
-  },
-  {
-    "ranking": "76",
-    "name": "Cameron Smith",
-    "money": "$1,504,820"
-  },
-  {
-    "ranking": "77",
-    "name": "Charley Hoffman",
-    "money": "$1,468,855"
-  },
-  {
-    "ranking": "78",
-    "name": "Joaquin Niemann",
-    "money": "$1,434,519"
-  },
-  {
-    "ranking": "79",
-    "name": "Matt Every",
-    "money": "$1,413,149"
-  },
-  {
-    "ranking": "80",
-    "name": "Chesson Hadley",
-    "money": "$1,405,632"
-  },
-  {
-    "ranking": "81",
-    "name": "Henrik Stenson",
-    "money": "$1,397,370"
-  },
-  {
-    "ranking": "82",
-    "name": "Luke List",
-    "money": "$1,391,408"
-  },
-  {
-    "ranking": "83",
-    "name": "Matthew Wolff",
-    "money": "$1,390,433"
-  },
-  {
-    "ranking": "84",
-    "name": "Branden Grace",
-    "money": "$1,373,185"
-  },
-  {
-    "ranking": "85",
-    "name": "Brian Harman",
-    "money": "$1,342,778"
-  },
-  {
-    "ranking": "86",
-    "name": "Brian Stuard",
-    "money": "$1,320,637"
-  },
-  {
-    "ranking": "87",
-    "name": "Michael Thompson",
-    "money": "$1,307,816"
-  },
-  {
-    "ranking": "88",
-    "name": "Danny Willett",
-    "money": "$1,286,737"
-  },
-  {
-    "ranking": "89",
-    "name": "Wyndham Clark",
-    "money": "$1,278,721"
-  },
-  {
-    "ranking": "90",
-    "name": "Adam Schenk",
-    "money": "$1,257,158"
-  },
-  {
-    "ranking": "91",
-    "name": "J.J. Spaun",
-    "money": "$1,205,977"
-  },
-  {
-    "ranking": "92",
-    "name": "Russell Henley",
-    "money": "$1,133,773"
-  },
-  {
-    "ranking": "93",
-    "name": "Russell Knox",
-    "money": "$1,132,825"
-  },
-  {
-    "ranking": "94",
-    "name": "Kyle Stanley",
-    "money": "$1,117,604"
-  },
-  {
-    "ranking": "95",
-    "name": "Sam Burns",
-    "money": "$1,117,312"
-  },
-  {
-    "ranking": "96",
-    "name": "Pat Perez",
-    "money": "$1,103,241"
-  },
-  {
-    "ranking": "97",
-    "name": "Bud Cauley",
-    "money": "$1,090,018"
-  },
-  {
-    "ranking": "98",
-    "name": "Scott Stallings",
-    "money": "$1,080,451"
-  },
-  {
-    "ranking": "99",
-    "name": "Chris Stroud",
-    "money": "$1,075,552"
-  },
-  {
-    "ranking": "100",
-    "name": "Carlos Ortiz",
-    "money": "$1,073,962"
-  },
-  {
-    "ranking": "101",
-    "name": "Talor Gooch",
-    "money": "$1,067,089"
-  },
-  {
-    "ranking": "102",
-    "name": "Kyoung-Hoon Lee",
-    "money": "$1,061,457"
-  },
-  {
-    "ranking": "103",
-    "name": "Sam Ryder",
-    "money": "$1,060,735"
-  },
-  {
-    "ranking": "104",
-    "name": "Aaron Wise",
-    "money": "$1,052,507"
-  },
-  {
-    "ranking": "105",
-    "name": "Cameron Tringale",
-    "money": "$1,049,106"
-  },
-  {
-    "ranking": "106",
-    "name": "Patrick Rodgers",
-    "money": "$1,046,838"
-  },
-  {
-    "ranking": "107",
-    "name": "Brian Gay",
-    "money": "$1,029,440"
-  },
-  {
-    "ranking": "108",
-    "name": "Matt Jones",
-    "money": "$1,024,852"
-  },
-  {
-    "ranking": "109",
-    "name": "Mackenzie Hughes",
-    "money": "$1,022,081"
-  },
-  {
-    "ranking": "110",
-    "name": "Brice Garnett",
-    "money": "$1,019,594"
-  },
-  {
-    "ranking": "111",
-    "name": "Roger Sloan",
-    "money": "$1,015,661"
-  },
-  {
-    "ranking": "112",
-    "name": "Nick Watney",
-    "money": "$1,008,964"
-  },
-  {
-    "ranking": "113",
-    "name": "Scott Brown",
-    "money": "$999,457"
-  },
-  {
-    "ranking": "114",
-    "name": "Patton Kizzire",
-    "money": "$995,341"
-  },
-  {
-    "ranking": "115",
-    "name": "Ryan Armour",
-    "money": "$955,468"
-  },
-  {
-    "ranking": "116",
-    "name": "Sebastián Muñoz",
-    "money": "$946,666"
-  },
-  {
-    "ranking": "117",
-    "name": "Sepp Straka",
-    "money": "$934,894"
-  },
-  {
-    "ranking": "118",
-    "name": "Jason Dufner",
-    "money": "$926,365"
-  },
-  {
-    "ranking": "119",
-    "name": "Denny McCarthy",
-    "money": "$925,156"
-  },
-  {
-    "ranking": "120",
-    "name": "Alex Noren",
-    "money": "$913,446"
-  },
-  {
-    "ranking": "121",
-    "name": "Kelly Kraft",
-    "money": "$905,681"
-  },
-  {
-    "ranking": "122",
-    "name": "Aaron Baddeley",
-    "money": "$904,982"
-  },
-  {
-    "ranking": "123",
-    "name": "Nick Taylor",
-    "money": "$892,663"
-  },
-  {
-    "ranking": "124",
-    "name": "Andrew Landry",
-    "money": "$887,405"
-  },
-  {
-    "ranking": "125",
-    "name": "Martin Kaymer",
-    "money": "$877,761"
-  },
-  {
-    "ranking": "126",
-    "name": "Peter Malnati",
-    "money": "$864,496"
-  },
-  {
-    "ranking": "127",
-    "name": "Martin Laird",
-    "money": "$863,054"
-  },
-  {
-    "ranking": "128",
-    "name": "Wes Roach",
-    "money": "$860,264"
-  },
-  {
-    "ranking": "129",
-    "name": "Richy Werenski",
-    "money": "$851,329"
-  },
-  {
-    "ranking": "130",
-    "name": "Peter Uihlein",
-    "money": "$842,991"
-  },
-  {
-    "ranking": "131",
-    "name": "Jonas Blixt",
-    "money": "$838,271"
-  },
-  {
-    "ranking": "132",
-    "name": "Austin Cook",
-    "money": "$837,788"
-  },
-  {
-    "ranking": "133",
-    "name": "Bronson Burgoon",
-    "money": "$814,673"
-  },
-  {
-    "ranking": "134",
-    "name": "Shawn Stefani",
-    "money": "$798,831"
-  },
-  {
-    "ranking": "135",
-    "name": "Robert Streb",
-    "money": "$796,525"
-  },
-  {
-    "ranking": "136",
-    "name": "Seamus Power",
-    "money": "$773,976"
-  },
-  {
-    "ranking": "137",
-    "name": "Ted Potter, Jr.",
-    "money": "$757,721"
-  },
-  {
-    "ranking": "138",
-    "name": "Ryan Blaum",
-    "money": "$755,802"
-  },
-  {
-    "ranking": "139",
-    "name": "Zack Sucher",
-    "money": "$753,782"
-  },
-  {
-    "ranking": "140",
-    "name": "Daniel Berger",
-    "money": "$742,340"
-  },
-  {
-    "ranking": "141",
-    "name": "Bill Haas",
-    "money": "$730,806"
-  },
-  {
-    "ranking": "142",
-    "name": "Martin Trainer",
-    "money": "$692,155"
-  },
-  {
-    "ranking": "143",
-    "name": "Jim Herman",
-    "money": "$678,185"
-  },
-  {
-    "ranking": "144",
-    "name": "Roberto Castro",
-    "money": "$674,250"
-  },
-  {
-    "ranking": "145",
-    "name": "Dominic Bozzelli",
-    "money": "$668,449"
-  },
-  {
-    "ranking": "146",
-    "name": "Josh Teater",
-    "money": "$663,570"
-  },
-  {
-    "ranking": "147",
-    "name": "Hank Lebioda",
-    "money": "$656,802"
-  },
-  {
-    "ranking": "148",
-    "name": "Beau Hossler",
-    "money": "$645,795"
-  },
-  {
-    "ranking": "149",
-    "name": "Scott Langley",
-    "money": "$635,883"
-  },
-  {
-    "ranking": "150",
-    "name": "Harris English",
-    "money": "$628,922"
-  },
-  {
-    "ranking": "151",
-    "name": "Stephan Jaeger",
-    "money": "$623,145"
-  },
-  {
-    "ranking": "152",
-    "name": "Roberto Díaz",
-    "money": "$620,178"
-  },
-  {
-    "ranking": "153",
-    "name": "Zach Johnson",
-    "money": "$603,160"
-  },
-  {
-    "ranking": "154",
-    "name": "Johnson Wagner",
-    "money": "$597,792"
-  },
-  {
-    "ranking": "155",
-    "name": "Tyler Duncan",
-    "money": "$596,502"
-  },
-  {
-    "ranking": "156",
-    "name": "Jimmy Walker",
-    "money": "$590,437"
-  },
-  {
-    "ranking": "157",
-    "name": "Tom Hoge",
-    "money": "$573,464"
-  },
-  {
-    "ranking": "158",
-    "name": "Chase Wright",
-    "money": "$571,575"
-  },
-  {
-    "ranking": "159",
-    "name": "Jonathan Byrd",
-    "money": "$550,547"
-  },
-  {
-    "ranking": "160",
-    "name": "Hudson Swafford",
-    "money": "$545,191"
-  },
-  {
-    "ranking": "161",
-    "name": "Trey Mullinax",
-    "money": "$536,694"
-  },
-  {
-    "ranking": "162",
-    "name": "Brendan Steele",
-    "money": "$515,139"
-  },
-  {
-    "ranking": "163",
-    "name": "D.J. Trahan",
-    "money": "$507,919"
-  },
-  {
-    "ranking": "164",
-    "name": "Brandon Harkins",
-    "money": "$494,795"
-  },
-  {
-    "ranking": "165",
-    "name": "Kramer Hickok",
-    "money": "$494,424"
-  },
-  {
-    "ranking": "166",
-    "name": "Jim Knous",
-    "money": "$490,976"
-  },
-  {
-    "ranking": "167",
-    "name": "Cameron Davis",
-    "money": "$477,467"
-  },
-  {
-    "ranking": "168",
-    "name": "Alex Prugh",
-    "money": "$467,732"
-  },
-  {
-    "ranking": "169",
-    "name": "Joey Garber",
-    "money": "$454,296"
-  },
-  {
-    "ranking": "170",
-    "name": "Anders Albertson",
-    "money": "$449,226"
-  },
-  {
-    "ranking": "171",
-    "name": "Fabián Gómez",
-    "money": "$433,027"
-  },
-  {
-    "ranking": "172",
-    "name": "Curtis Luck",
-    "money": "$432,569"
-  },
-  {
-    "ranking": "173",
-    "name": "Satoshi Kodaira",
-    "money": "$421,457"
-  },
-  {
-    "ranking": "174",
-    "name": "Anirban Lahiri",
-    "money": "$419,620"
-  },
-  {
-    "ranking": "175",
-    "name": "Sam Saunders",
-    "money": "$413,887"
-  },
-  {
-    "ranking": "176",
-    "name": "Ollie Schniederjans",
-    "money": "$411,682"
-  },
-  {
-    "ranking": "177",
-    "name": "Adam Svensson",
-    "money": "$405,730"
-  },
-  {
-    "ranking": "178",
-    "name": "David Hearn",
-    "money": "$397,677"
-  },
-  {
-    "ranking": "179",
-    "name": "José de Jesús Rodríguez",
-    "money": "$394,402"
-  },
-  {
-    "ranking": "180",
-    "name": "Stewart Cink",
-    "money": "$368,008"
-  },
-  {
-    "ranking": "181",
-    "name": "Julián Etulain",
-    "money": "$360,653"
-  },
-  {
-    "ranking": "182",
-    "name": "Seth Reeves",
-    "money": "$309,588"
-  },
-  {
-    "ranking": "183",
-    "name": "Ernie Els",
-    "money": "$304,590"
-  },
-  {
-    "ranking": "184",
-    "name": "Ben Silverman",
-    "money": "$298,497"
-  },
-  {
-    "ranking": "185",
-    "name": "John Chin",
-    "money": "$294,536"
-  },
-  {
-    "ranking": "186",
-    "name": "Whee Kim",
-    "money": "$292,773"
-  },
-  {
-    "ranking": "187",
-    "name": "Hunter Mahan",
-    "money": "$287,579"
-  },
-  {
-    "ranking": "188",
-    "name": "Luke Donald",
-    "money": "$285,630"
-  },
-  {
-    "ranking": "189",
-    "name": "Kyle Jones",
-    "money": "$277,762"
-  },
-  {
-    "ranking": "190",
-    "name": "Davis Love III",
-    "money": "$271,216"
-  },
-  {
-    "ranking": "191",
-    "name": "Chris Kirk",
-    "money": "$261,401"
-  },
-  {
-    "ranking": "192",
-    "name": "Kevin Chappell",
-    "money": "$257,024"
-  },
-  {
-    "ranking": "193",
-    "name": "Brendon Todd",
-    "money": "$252,546"
-  },
-  {
-    "ranking": "194",
-    "name": "Cody Gribble",
-    "money": "$248,317"
-  },
-  {
-    "ranking": "195",
-    "name": "Vijay Singh",
-    "money": "$244,800"
-  },
-  {
-    "ranking": "196",
-    "name": "Billy Hurley III",
-    "money": "$239,396"
-  },
-  {
-    "ranking": "197",
-    "name": "Charl Schwartzel",
-    "money": "$232,725"
-  },
-  {
-    "ranking": "198",
-    "name": "Nicholas Lindheim",
-    "money": "$227,124"
-  },
-  {
-    "ranking": "199",
-    "name": "Brady Schnell",
-    "money": "$210,914"
-  },
-  {
-    "ranking": "200",
-    "name": "Sean O'Hair",
-    "money": "$201,352"
-  },
-  {
-    "ranking": "201",
-    "name": "Ben Crane",
-    "money": "$193,074"
-  },
-  {
-    "ranking": "202",
-    "name": "George McNeill",
-    "money": "$187,950"
-  },
-  {
-    "ranking": "203",
-    "name": "K.J. Choi",
-    "money": "$185,952"
-  },
-  {
-    "ranking": "204",
-    "name": "Alex Cejka",
-    "money": "$181,155"
-  },
-  {
-    "ranking": "205",
-    "name": "J.J. Henry",
-    "money": "$177,232"
-  },
-  {
-    "ranking": "206",
-    "name": "Sangmoon Bae",
-    "money": "$172,472"
-  },
-  {
-    "ranking": "207",
-    "name": "Padraig Harrington",
-    "money": "$169,390"
-  },
-  {
-    "ranking": "208",
-    "name": "James Hahn",
-    "money": "$159,343"
-  },
-  {
-    "ranking": "209",
-    "name": "Jamie Lovemark",
-    "money": "$145,999"
-  },
-  {
-    "ranking": "210",
-    "name": "Tom Lovelady",
-    "money": "$145,647"
-  },
-  {
-    "ranking": "211",
-    "name": "Freddie Jacobson",
-    "money": "$144,500"
-  },
-  {
-    "ranking": "212",
-    "name": "Steve Stricker",
-    "money": "$135,670"
-  },
-  {
-    "ranking": "213",
-    "name": "Martin Piller",
-    "money": "$134,029"
-  },
-  {
-    "ranking": "214",
-    "name": "Grayson Murray",
-    "money": "$125,511"
-  },
-  {
-    "ranking": "215",
-    "name": "Tyrone Van Aswegen",
-    "money": "$114,780"
-  },
-  {
-    "ranking": "216",
-    "name": "Boo Weekley",
-    "money": "$107,981"
-  },
-  {
-    "ranking": "217",
-    "name": "Michael Kim",
-    "money": "$104,936"
-  },
-  {
-    "ranking": "218",
-    "name": "Rod Pampling",
-    "money": "$102,127"
-  },
-  {
-    "ranking": "219",
-    "name": "John Senden",
-    "money": "$99,419"
-  },
-  {
-    "ranking": "220",
-    "name": "John Huh",
-    "money": "$97,255"
-  },
-  {
-    "ranking": "221",
-    "name": "Jason Gore",
-    "money": "$92,960"
-  },
-  {
-    "ranking": "222",
-    "name": "Morgan Hoffmann",
-    "money": "$92,212"
-  },
-  {
-    "ranking": "223",
-    "name": "Robert Garrigus",
-    "money": "$84,191"
-  },
-  {
-    "ranking": "224",
-    "name": "Chris Thompson",
-    "money": "$81,635"
-  },
-  {
-    "ranking": "225",
-    "name": "Derek Fathauer",
-    "money": "$76,850"
-  },
-  {
-    "ranking": "226",
-    "name": "Andres Romero",
-    "money": "$74,786"
-  },
-  {
-    "ranking": "227",
-    "name": "David Lingmerth",
-    "money": "$71,644"
-  },
-  {
-    "ranking": "228",
-    "name": "Colt Knost",
-    "money": "$66,493"
-  },
-  {
-    "ranking": "229",
-    "name": "Arjun Atwal",
-    "money": "$62,095"
-  },
-  {
-    "ranking": "230",
-    "name": "David Toms",
-    "money": "$61,438"
-  },
-  {
-    "ranking": "231",
-    "name": "Chad Collins",
-    "money": "$59,164"
-  },
-  {
-    "ranking": "232",
-    "name": "Tim Herron",
-    "money": "$43,281"
-  },
-  {
-    "ranking": "233",
-    "name": "D.A. Points",
-    "money": "$43,246"
-  },
-  {
-    "ranking": "234",
-    "name": "Chad Campbell",
-    "money": "$42,130"
-  },
-  {
-    "ranking": "235",
-    "name": "Daniel Chopra",
-    "money": "$40,401"
-  },
-  {
-    "ranking": "236",
-    "name": "Y.E. Yang",
-    "money": "$39,055"
-  },
-  {
-    "ranking": "237",
-    "name": "Trevor Immelman",
-    "money": "$35,353"
-  },
-  {
-    "ranking": "238",
-    "name": "Stuart Appleby",
-    "money": "$33,336"
-  },
-  {
-    "ranking": "239",
-    "name": "John Rollins",
-    "money": "$32,424"
-  },
-  {
-    "ranking": "240",
-    "name": "Parker McLachlin",
-    "money": "$29,674"
-  },
-  {
-    "ranking": "241",
-    "name": "Mike Weir",
-    "money": "$27,643"
-  },
-  {
-    "ranking": "242",
-    "name": "Chris Couch",
-    "money": "$27,166"
-  },
-  {
-    "ranking": "243",
-    "name": "Bernhard Langer",
-    "money": "$25,415"
-  },
-  {
-    "ranking": "244",
-    "name": "Fred Couples",
-    "money": "$23,680"
-  },
-  {
-    "ranking": "245",
-    "name": "Ricky Barnes",
-    "money": "$22,370"
-  },
-  {
-    "ranking": "246",
-    "name": "Tommy Gainey",
-    "money": "$21,560"
-  },
-  {
-    "ranking": "247",
-    "name": "Rich Beem",
-    "money": "$18,550"
-  },
-  {
-    "ranking": "248",
-    "name": "Charlie Beljan",
-    "money": "$18,304"
-  },
-  {
-    "ranking": "249",
-    "name": "Derek Ernst",
-    "money": "$15,172"
-  },
-  {
-    "ranking": "250",
-    "name": "Robert Allenby",
-    "money": "$14,715"
-  },
-  {
-    "ranking": "251",
-    "name": "Brandon Hagy",
-    "money": "$14,555"
-  },
-  {
-    "ranking": "252",
-    "name": "Smylie Kaufman",
-    "money": "$14,454"
-  },
-  {
-    "ranking": "253",
-    "name": "Tom Lehman",
-    "money": "$13,952"
-  },
-  {
-    "ranking": "254",
-    "name": "John Merrick",
-    "money": "$13,611"
-  },
-  {
-    "ranking": "255",
-    "name": "Charlie Wi",
-    "money": "$12,735"
-  },
-  {
-    "ranking": "256",
-    "name": "Omar Uresti",
-    "money": "$12,690"
-  },
-  {
-    "ranking": "257",
-    "name": "Brendon de Jonge",
-    "money": "$11,904"
-  },
-  {
-    "ranking": "258",
-    "name": "Dicky Pride",
-    "money": "$11,280"
-  },
-  {
-    "ranking": "259",
-    "name": "Brian Davis",
-    "money": "$10,500"
-  },
-  {
-    "ranking": "260",
-    "name": "John Daly",
-    "money": "$7,070"
-  },
-  {
-    "ranking": "261",
-    "name": "Heath Slocum",
-    "money": "$6,685"
-  },
-  {
-    "ranking": "262",
-    "name": "Will MacKenzie",
-    "money": "$6,510"
-  },
-  {
-    "ranking": "263",
-    "name": "Ken Duke",
-    "money": "$6,450"
-  },
-  {
-    "ranking": "264",
-    "name": "Jason Bohn",
-    "money": "$5,970"
-  },
-  {
-    "ranking": "265",
-    "name": "Jonathan Kaye",
-    "money": "$5,910"
-  }
+	{
+		"ranking" : 1,
+		"name" : "Brooks Koepka",
+		"money" : "$9,684,006",
+		"tier" : 1,
+		"adjMoney" : 9684006,
+		"adjRanking" : 1,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000007.png",
+		"rankingChg" : "1 (1)"
+	},
+	{
+		"ranking" : 2,
+		"name" : "Rory McIlroy",
+		"money" : "$7,785,286",
+		"tier" : 1,
+		"adjMoney" : 7006757,
+		"adjRanking" : 2,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000965.png",
+		"rankingChg" : "2 (2)"
+	},
+	{
+		"ranking" : 4,
+		"name" : "Patrick Cantlay",
+		"money" : "$6,121,488",
+		"tier" : 1,
+		"adjMoney" : 6121488,
+		"adjRanking" : 3,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000216.png",
+		"rankingChg" : "3 (4)"
+	},
+	{
+		"ranking" : 5,
+		"name" : "Gary Woodland",
+		"money" : "$5,690,965",
+		"tier" : 1,
+		"adjMoney" : 5690965,
+		"adjRanking" : 4,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001594.png",
+		"rankingChg" : "4 (5)"
+	},
+	{
+		"ranking" : 3,
+		"name" : "Matt Kuchar",
+		"money" : "$6,294,690",
+		"tier" : 1,
+		"adjMoney" : 5665221,
+		"adjRanking" : 5,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000014.png",
+		"rankingChg" : "5 (3)"
+	},
+	{
+		"ranking" : 6,
+		"name" : "Xander Schauffele",
+		"money" : "$5,609,456",
+		"tier" : 1,
+		"adjMoney" : 5609456,
+		"adjRanking" : 6,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001638.png",
+		"rankingChg" : "6 (6)"
+	},
+	{
+		"ranking" : 7,
+		"name" : "Dustin Johnson",
+		"money" : "$5,534,619",
+		"tier" : 1,
+		"adjMoney" : 5534619,
+		"adjRanking" : 7,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000015.png",
+		"rankingChg" : "7 (7)"
+	},
+	{
+		"ranking" : 8,
+		"name" : "Justin Thomas",
+		"money" : "$5,013,084",
+		"tier" : 1,
+		"adjMoney" : 5514392,
+		"adjRanking" : 8,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001434.png",
+		"rankingChg" : "8 (8)"
+	},
+	{
+		"ranking" : 10,
+		"name" : "Webb Simpson",
+		"money" : "$4,690,572",
+		"tier" : 1,
+		"adjMoney" : 5159629,
+		"adjRanking" : 9,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001313.png",
+		"rankingChg" : "9 (10)"
+	},
+	{
+		"ranking" : 9,
+		"name" : "Jon Rahm",
+		"money" : "$4,990,110",
+		"tier" : 1,
+		"adjMoney" : 4990110,
+		"adjRanking" : 10,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001199.png",
+		"rankingChg" : "10 (9)"
+	},
+	{
+		"ranking" : 12,
+		"name" : "Tony Finau",
+		"money" : "$4,344,380",
+		"tier" : 1,
+		"adjMoney" : 4344380,
+		"adjRanking" : 11,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000423.png",
+		"rankingChg" : "11 (12)"
+	},
+	{
+		"ranking" : 17,
+		"name" : "Tommy Fleetwood",
+		"money" : "$3,853,651",
+		"tier" : 1,
+		"adjMoney" : 4239016,
+		"adjRanking" : 12,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000432.png",
+		"rankingChg" : "12 (17)"
+	},
+	{
+		"ranking" : 20,
+		"name" : "Shane Lowry",
+		"money" : "$3,490,098",
+		"tier" : 1,
+		"adjMoney" : 4188118,
+		"adjRanking" : 13,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000890.png",
+		"rankingChg" : "13 (20)"
+	},
+	{
+		"ranking" : 14,
+		"name" : "Adam Scott",
+		"money" : "$4,084,541",
+		"tier" : 1,
+		"adjMoney" : 4084541,
+		"adjRanking" : 14,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000010.png",
+		"rankingChg" : "14 (14)"
+	},
+	{
+		"ranking" : 19,
+		"name" : "Patrick Reed",
+		"money" : "$3,593,844",
+		"tier" : 1,
+		"adjMoney" : 3953228,
+		"adjRanking" : 15,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000002.png",
+		"rankingChg" : "15 (19)"
+	},
+	{
+		"ranking" : 15,
+		"name" : "Rickie Fowler",
+		"money" : "$3,945,810",
+		"tier" : 1,
+		"adjMoney" : 3945810,
+		"adjRanking" : 16,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000003.png",
+		"rankingChg" : "16 (15)"
+	},
+	{
+		"ranking" : 11,
+		"name" : "Justin Rose",
+		"money" : "$4,358,849",
+		"tier" : 1,
+		"adjMoney" : 3922964,
+		"adjRanking" : 17,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000013.png",
+		"rankingChg" : "17 (11)"
+	},
+	{
+		"ranking" : 16,
+		"name" : "Marc Leishman",
+		"money" : "$3,886,577",
+		"tier" : 1,
+		"adjMoney" : 3886577,
+		"adjRanking" : 18,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000842.png",
+		"rankingChg" : "18 (16)"
+	},
+	{
+		"ranking" : 18,
+		"name" : "Chez Reavie",
+		"money" : "$3,660,909",
+		"tier" : 1,
+		"adjMoney" : 3660909,
+		"adjRanking" : 19,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001211.png",
+		"rankingChg" : "19 (18)"
+	},
+	{
+		"ranking" : 13,
+		"name" : "Paul Casey",
+		"money" : "$4,257,040",
+		"tier" : 1,
+		"adjMoney" : 3405632,
+		"adjRanking" : 20,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000006.png",
+		"rankingChg" : "20 (13)"
+	},
+	{
+		"ranking" : 21,
+		"name" : "Kevin Kisner",
+		"money" : "$3,489,144",
+		"tier" : 2,
+		"adjMoney" : 3489144,
+		"adjRanking" : 1,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000770.png",
+		"rankingChg" : "1 (1)"
+	},
+	{
+		"ranking" : 22,
+		"name" : "Francesco Molinari",
+		"money" : "$3,467,143",
+		"tier" : 2,
+		"adjMoney" : 3120429,
+		"adjRanking" : 2,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001012.png",
+		"rankingChg" : "2 (2)"
+	},
+	{
+		"ranking" : 23,
+		"name" : "Hideki Matsuyama",
+		"money" : "$3,335,137",
+		"tier" : 2,
+		"adjMoney" : 3001623,
+		"adjRanking" : 3,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000017.png",
+		"rankingChg" : "3 (3)"
+	},
+	{
+		"ranking" : 32,
+		"name" : "Abraham Ancer",
+		"money" : "$2,688,625",
+		"tier" : 2,
+		"adjMoney" : 2957488,
+		"adjRanking" : 4,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000047.png",
+		"rankingChg" : "4 (12)"
+	},
+	{
+		"ranking" : 28,
+		"name" : "Corey Conners",
+		"money" : "$2,919,864",
+		"tier" : 2,
+		"adjMoney" : 2919864,
+		"adjRanking" : 5,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000270.png",
+		"rankingChg" : "5 (8)"
+	},
+	{
+		"ranking" : 24,
+		"name" : "Tiger Woods",
+		"money" : "$3,199,615",
+		"tier" : 2,
+		"adjMoney" : 2879653,
+		"adjRanking" : 6,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000019.png",
+		"rankingChg" : "6 (4)"
+	},
+	{
+		"ranking" : 25,
+		"name" : "Bryson DeChambeau",
+		"money" : "$3,186,232",
+		"tier" : 2,
+		"adjMoney" : 2867609,
+		"adjRanking" : 7,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000322.png",
+		"rankingChg" : "7 (5)"
+	},
+	{
+		"ranking" : 30,
+		"name" : "Sungjae Im",
+		"money" : "$2,851,134",
+		"tier" : 2,
+		"adjMoney" : 2851134,
+		"adjRanking" : 8,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002605.png",
+		"rankingChg" : "8 (10)"
+	},
+	{
+		"ranking" : 26,
+		"name" : "Brandt Snedeker",
+		"money" : "$3,122,936",
+		"tier" : 2,
+		"adjMoney" : 2810642,
+		"adjRanking" : 9,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001343.png",
+		"rankingChg" : "9 (6)"
+	},
+	{
+		"ranking" : 31,
+		"name" : "Sung Kang",
+		"money" : "$2,801,650",
+		"tier" : 2,
+		"adjMoney" : 2801650,
+		"adjRanking" : 10,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000731.png",
+		"rankingChg" : "10 (11)"
+	},
+	{
+		"ranking" : 27,
+		"name" : "Charles Howell III",
+		"money" : "$3,039,049",
+		"tier" : 2,
+		"adjMoney" : 2735144,
+		"adjRanking" : 11,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000653.png",
+		"rankingChg" : "11 (7)"
+	},
+	{
+		"ranking" : 38,
+		"name" : "J.T. Poston",
+		"money" : "$2,461,215",
+		"tier" : 2,
+		"adjMoney" : 2707337,
+		"adjRanking" : 12,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001971.png",
+		"rankingChg" : "12 (18)"
+	},
+	{
+		"ranking" : 29,
+		"name" : "Ryan Palmer",
+		"money" : "$2,873,316",
+		"tier" : 2,
+		"adjMoney" : 2585984,
+		"adjRanking" : 13,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001107.png",
+		"rankingChg" : "13 (9)"
+	},
+	{
+		"ranking" : 37,
+		"name" : "Louis Oosthuizen",
+		"money" : "$2,539,183",
+		"tier" : 2,
+		"adjMoney" : 2539183,
+		"adjRanking" : 14,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001092.png",
+		"rankingChg" : "14 (17)"
+	},
+	{
+		"ranking" : 40,
+		"name" : "Andrew Putnam",
+		"money" : "$2,439,137",
+		"tier" : 2,
+		"adjMoney" : 2439137,
+		"adjRanking" : 15,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001189.png",
+		"rankingChg" : "15 (20)"
+	},
+	{
+		"ranking" : 33,
+		"name" : "Scott Piercy",
+		"money" : "$2,679,915",
+		"tier" : 2,
+		"adjMoney" : 2411923,
+		"adjRanking" : 16,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001156.png",
+		"rankingChg" : "16 (13)"
+	},
+	{
+		"ranking" : 34,
+		"name" : "Jim Furyk",
+		"money" : "$2,669,938",
+		"tier" : 2,
+		"adjMoney" : 2402944,
+		"adjRanking" : 17,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000466.png",
+		"rankingChg" : "17 (14)"
+	},
+	{
+		"ranking" : 35,
+		"name" : "Jason Day",
+		"money" : "$2,637,480",
+		"tier" : 2,
+		"adjMoney" : 2373732,
+		"adjRanking" : 18,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000314.png",
+		"rankingChg" : "18 (15)"
+	},
+	{
+		"ranking" : 36,
+		"name" : "Lucas Glover",
+		"money" : "$2,613,965",
+		"tier" : 2,
+		"adjMoney" : 2352568,
+		"adjRanking" : 19,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000509.png",
+		"rankingChg" : "19 (16)"
+	},
+	{
+		"ranking" : 39,
+		"name" : "Phil Mickelson",
+		"money" : "$2,440,221",
+		"tier" : 2,
+		"adjMoney" : 2196199,
+		"adjRanking" : 20,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000991.png",
+		"rankingChg" : "20 (19)"
+	},
+	{
+		"ranking" : 41,
+		"name" : "Keith Mitchell",
+		"money" : "$2,405,360",
+		"tier" : 3,
+		"adjMoney" : 2405360,
+		"adjRanking" : 1,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001680.png",
+		"rankingChg" : "1 (1)"
+	},
+	{
+		"ranking" : 43,
+		"name" : "C.T. Pan",
+		"money" : "$2,362,399",
+		"tier" : 3,
+		"adjMoney" : 2362399,
+		"adjRanking" : 2,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001109.png",
+		"rankingChg" : "2 (3)"
+	},
+	{
+		"ranking" : 44,
+		"name" : "Jason Kokrak",
+		"money" : "$2,330,212",
+		"tier" : 3,
+		"adjMoney" : 2330212,
+		"adjRanking" : 3,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000785.png",
+		"rankingChg" : "3 (4)"
+	},
+	{
+		"ranking" : 45,
+		"name" : "Kevin Tway",
+		"money" : "$2,300,050",
+		"tier" : 3,
+		"adjMoney" : 2300050,
+		"adjRanking" : 4,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001473.png",
+		"rankingChg" : "4 (5)"
+	},
+	{
+		"ranking" : 48,
+		"name" : "Billy Horschel",
+		"money" : "$2,187,249",
+		"tier" : 3,
+		"adjMoney" : 2187249,
+		"adjRanking" : 5,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000016.png",
+		"rankingChg" : "5 (8)"
+	},
+	{
+		"ranking" : 50,
+		"name" : "J.B. Holmes",
+		"money" : "$2,147,065",
+		"tier" : 3,
+		"adjMoney" : 2147065,
+		"adjRanking" : 6,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000008.png",
+		"rankingChg" : "6 (10)"
+	},
+	{
+		"ranking" : 51,
+		"name" : "Jordan Spieth",
+		"money" : "$2,124,192",
+		"tier" : 3,
+		"adjMoney" : 2124192,
+		"adjRanking" : 7,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000004.png",
+		"rankingChg" : "7 (11)"
+	},
+	{
+		"ranking" : 52,
+		"name" : "Max Homa",
+		"money" : "$2,063,606",
+		"tier" : 3,
+		"adjMoney" : 2063606,
+		"adjRanking" : 8,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000638.png",
+		"rankingChg" : "8 (12)"
+	},
+	{
+		"ranking" : 53,
+		"name" : "Adam Hadwin",
+		"money" : "$2,039,012",
+		"tier" : 3,
+		"adjMoney" : 2039012,
+		"adjRanking" : 9,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000561.png",
+		"rankingChg" : "9 (13)"
+	},
+	{
+		"ranking" : 46,
+		"name" : "Kevin Na",
+		"money" : "$2,257,309",
+		"tier" : 3,
+		"adjMoney" : 2031578,
+		"adjRanking" : 10,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001044.png",
+		"rankingChg" : "10 (6)"
+	},
+	{
+		"ranking" : 54,
+		"name" : "Nate Lashley",
+		"money" : "$2,030,287",
+		"tier" : 3,
+		"adjMoney" : 2030287,
+		"adjRanking" : 11,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000817.png",
+		"rankingChg" : "11 (14)"
+	},
+	{
+		"ranking" : 55,
+		"name" : "Byeong Hun An",
+		"money" : "$1,990,033",
+		"tier" : 3,
+		"adjMoney" : 1990033,
+		"adjRanking" : 12,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000045.png",
+		"rankingChg" : "12 (15)"
+	},
+	{
+		"ranking" : 47,
+		"name" : "Si Woo Kim",
+		"money" : "$2,191,808",
+		"tier" : 3,
+		"adjMoney" : 1972627,
+		"adjRanking" : 13,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000764.png",
+		"rankingChg" : "13 (7)"
+	},
+	{
+		"ranking" : 56,
+		"name" : "Joel Dahmen",
+		"money" : "$1,949,958",
+		"tier" : 3,
+		"adjMoney" : 1949958,
+		"adjRanking" : 14,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000302.png",
+		"rankingChg" : "14 (16)"
+	},
+	{
+		"ranking" : 49,
+		"name" : "Ian Poulter",
+		"money" : "$2,162,306",
+		"tier" : 3,
+		"adjMoney" : 1946075,
+		"adjRanking" : 15,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001174.png",
+		"rankingChg" : "15 (9)"
+	},
+	{
+		"ranking" : 57,
+		"name" : "Rafa Cabrera Bello",
+		"money" : "$1,926,935",
+		"tier" : 3,
+		"adjMoney" : 1926935,
+		"adjRanking" : 16,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000201.png",
+		"rankingChg" : "16 (17)"
+	},
+	{
+		"ranking" : 42,
+		"name" : "Rory Sabbatini",
+		"money" : "$2,382,298",
+		"tier" : 3,
+		"adjMoney" : 1905838,
+		"adjRanking" : 17,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001254.png",
+		"rankingChg" : "17 (2)"
+	},
+	{
+		"ranking" : 58,
+		"name" : "Keegan Bradley",
+		"money" : "$1,902,797",
+		"tier" : 3,
+		"adjMoney" : 1902797,
+		"adjRanking" : 18,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000152.png",
+		"rankingChg" : "18 (18)"
+	},
+	{
+		"ranking" : 59,
+		"name" : "Ryan Moore",
+		"money" : "$1,838,788",
+		"tier" : 3,
+		"adjMoney" : 1838788,
+		"adjRanking" : 19,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001016.png",
+		"rankingChg" : "19 (19)"
+	},
+	{
+		"ranking" : 60,
+		"name" : "Sergio Garcia",
+		"money" : "$1,793,027",
+		"tier" : 3,
+		"adjMoney" : 1793027,
+		"adjRanking" : 20,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000479.png",
+		"rankingChg" : "20 (20)"
+	},
+	{
+		"ranking" : 61,
+		"name" : "Collin Morikawa",
+		"money" : "$1,754,890",
+		"tier" : 4,
+		"adjMoney" : 1930379,
+		"adjRanking" : 1,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "1 (1)"
+	},
+	{
+		"ranking" : 62,
+		"name" : "Emiliano Grillo",
+		"money" : "$1,752,114",
+		"tier" : 4,
+		"adjMoney" : 1752114,
+		"adjRanking" : 2,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000540.png",
+		"rankingChg" : "2 (2)"
+	},
+	{
+		"ranking" : 72,
+		"name" : "Harold Varner III",
+		"money" : "$1,553,149",
+		"tier" : 4,
+		"adjMoney" : 1708464,
+		"adjRanking" : 3,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001490.png",
+		"rankingChg" : "3 (12)"
+	},
+	{
+		"ranking" : 64,
+		"name" : "Cameron Champ",
+		"money" : "$1,695,748",
+		"tier" : 4,
+		"adjMoney" : 1695748,
+		"adjRanking" : 4,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002650.png",
+		"rankingChg" : "4 (4)"
+	},
+	{
+		"ranking" : 73,
+		"name" : "Troy Merritt",
+		"money" : "$1,531,143",
+		"tier" : 4,
+		"adjMoney" : 1684257,
+		"adjRanking" : 5,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000987.png",
+		"rankingChg" : "5 (13)"
+	},
+	{
+		"ranking" : 66,
+		"name" : "Adam Long",
+		"money" : "$1,648,007",
+		"tier" : 4,
+		"adjMoney" : 1648007,
+		"adjRanking" : 6,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000877.png",
+		"rankingChg" : "6 (6)"
+	},
+	{
+		"ranking" : 67,
+		"name" : "Kiradech Aphibarnrat",
+		"money" : "$1,630,073",
+		"tier" : 4,
+		"adjMoney" : 1630073,
+		"adjRanking" : 7,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000053.png",
+		"rankingChg" : "7 (7)"
+	},
+	{
+		"ranking" : 69,
+		"name" : "Dylan Frittelli",
+		"money" : "$1,576,974",
+		"tier" : 4,
+		"adjMoney" : 1576974,
+		"adjRanking" : 8,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002512.png",
+		"rankingChg" : "8 (9)"
+	},
+	{
+		"ranking" : 70,
+		"name" : "Jhonattan Vegas",
+		"money" : "$1,566,910",
+		"tier" : 4,
+		"adjMoney" : 1566910,
+		"adjRanking" : 9,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001495.png",
+		"rankingChg" : "9 (10)"
+	},
+	{
+		"ranking" : 63,
+		"name" : "Vaughn Taylor",
+		"money" : "$1,723,910",
+		"tier" : 4,
+		"adjMoney" : 1551519,
+		"adjRanking" : 10,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001425.png",
+		"rankingChg" : "10 (3)"
+	},
+	{
+		"ranking" : 75,
+		"name" : "Tyrrell Hatton",
+		"money" : "$1,517,396",
+		"tier" : 4,
+		"adjMoney" : 1517396,
+		"adjRanking" : 11,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000596.png",
+		"rankingChg" : "11 (15)"
+	},
+	{
+		"ranking" : 76,
+		"name" : "Cameron Smith",
+		"money" : "$1,504,820",
+		"tier" : 4,
+		"adjMoney" : 1504820,
+		"adjRanking" : 12,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001333.png",
+		"rankingChg" : "12 (16)"
+	},
+	{
+		"ranking" : 65,
+		"name" : "Graeme McDowell",
+		"money" : "$1,671,523",
+		"tier" : 4,
+		"adjMoney" : 1504371,
+		"adjRanking" : 13,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000954.png",
+		"rankingChg" : "13 (5)"
+	},
+	{
+		"ranking" : 78,
+		"name" : "Joaquin Niemann",
+		"money" : "$1,434,519",
+		"tier" : 4,
+		"adjMoney" : 1434519,
+		"adjRanking" : 14,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002644.png",
+		"rankingChg" : "14 (18)"
+	},
+	{
+		"ranking" : 68,
+		"name" : "Kevin Streelman",
+		"money" : "$1,588,881",
+		"tier" : 4,
+		"adjMoney" : 1429993,
+		"adjRanking" : 15,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001390.png",
+		"rankingChg" : "15 (8)"
+	},
+	{
+		"ranking" : 80,
+		"name" : "Chesson Hadley",
+		"money" : "$1,405,632",
+		"tier" : 4,
+		"adjMoney" : 1405632,
+		"adjRanking" : 16,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000560.png",
+		"rankingChg" : "16 (20)"
+	},
+	{
+		"ranking" : 71,
+		"name" : "Bubba Watson",
+		"money" : "$1,558,014",
+		"tier" : 4,
+		"adjMoney" : 1402213,
+		"adjRanking" : 17,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000001.png",
+		"rankingChg" : "17 (11)"
+	},
+	{
+		"ranking" : 74,
+		"name" : "Danny Lee",
+		"money" : "$1,524,126",
+		"tier" : 4,
+		"adjMoney" : 1371713,
+		"adjRanking" : 18,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000833.png",
+		"rankingChg" : "18 (14)"
+	},
+	{
+		"ranking" : 77,
+		"name" : "Charley Hoffman",
+		"money" : "$1,468,855",
+		"tier" : 4,
+		"adjMoney" : 1321969,
+		"adjRanking" : 19,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000632.png",
+		"rankingChg" : "19 (17)"
+	},
+	{
+		"ranking" : 79,
+		"name" : "Matt Every",
+		"money" : "$1,413,149",
+		"tier" : 4,
+		"adjMoney" : 1271834,
+		"adjRanking" : 20,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000401.png",
+		"rankingChg" : "20 (19)"
+	},
+	{
+		"ranking" : 83,
+		"name" : "Matthew Wolff",
+		"money" : "$1,390,433",
+		"tier" : 5,
+		"adjMoney" : 1529476,
+		"adjRanking" : 1,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "1 (3)"
+	},
+	{
+		"ranking" : 82,
+		"name" : "Luke List",
+		"money" : "$1,391,408",
+		"tier" : 5,
+		"adjMoney" : 1391408,
+		"adjRanking" : 2,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000869.png",
+		"rankingChg" : "2 (2)"
+	},
+	{
+		"ranking" : 84,
+		"name" : "Branden Grace",
+		"money" : "$1,373,185",
+		"tier" : 5,
+		"adjMoney" : 1373185,
+		"adjRanking" : 3,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000527.png",
+		"rankingChg" : "3 (4)"
+	},
+	{
+		"ranking" : 85,
+		"name" : "Brian Harman",
+		"money" : "$1,342,778",
+		"tier" : 5,
+		"adjMoney" : 1342778,
+		"adjRanking" : 4,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000585.png",
+		"rankingChg" : "4 (5)"
+	},
+	{
+		"ranking" : 86,
+		"name" : "Brian Stuard",
+		"money" : "$1,320,637",
+		"tier" : 5,
+		"adjMoney" : 1320637,
+		"adjRanking" : 5,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001396.png",
+		"rankingChg" : "5 (6)"
+	},
+	{
+		"ranking" : 87,
+		"name" : "Michael Thompson",
+		"money" : "$1,307,816",
+		"tier" : 5,
+		"adjMoney" : 1307816,
+		"adjRanking" : 6,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001439.png",
+		"rankingChg" : "6 (7)"
+	},
+	{
+		"ranking" : 88,
+		"name" : "Danny Willett",
+		"money" : "$1,286,737",
+		"tier" : 5,
+		"adjMoney" : 1286737,
+		"adjRanking" : 7,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001565.png",
+		"rankingChg" : "7 (8)"
+	},
+	{
+		"ranking" : 89,
+		"name" : "Wyndham Clark",
+		"money" : "$1,278,721",
+		"tier" : 5,
+		"adjMoney" : 1278721,
+		"adjRanking" : 8,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002651.png",
+		"rankingChg" : "8 (9)"
+	},
+	{
+		"ranking" : 90,
+		"name" : "Adam Schenk",
+		"money" : "$1,257,158",
+		"tier" : 5,
+		"adjMoney" : 1257158,
+		"adjRanking" : 9,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001686.png",
+		"rankingChg" : "9 (10)"
+	},
+	{
+		"ranking" : 91,
+		"name" : "J.J. Spaun",
+		"money" : "$1,205,977",
+		"tier" : 5,
+		"adjMoney" : 1205977,
+		"adjRanking" : 10,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001353.png",
+		"rankingChg" : "10 (11)"
+	},
+	{
+		"ranking" : 92,
+		"name" : "Russell Henley",
+		"money" : "$1,133,773",
+		"tier" : 5,
+		"adjMoney" : 1133773,
+		"adjRanking" : 11,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000615.png",
+		"rankingChg" : "11 (12)"
+	},
+	{
+		"ranking" : 93,
+		"name" : "Russell Knox",
+		"money" : "$1,132,825",
+		"tier" : 5,
+		"adjMoney" : 1132825,
+		"adjRanking" : 12,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000778.png",
+		"rankingChg" : "12 (13)"
+	},
+	{
+		"ranking" : 81,
+		"name" : "Henrik Stenson",
+		"money" : "$1,397,370",
+		"tier" : 5,
+		"adjMoney" : 1117896,
+		"adjRanking" : 13,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001373.png",
+		"rankingChg" : "13 (1)"
+	},
+	{
+		"ranking" : 94,
+		"name" : "Kyle Stanley",
+		"money" : "$1,117,604",
+		"tier" : 5,
+		"adjMoney" : 1117604,
+		"adjRanking" : 14,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001365.png",
+		"rankingChg" : "14 (14)"
+	},
+	{
+		"ranking" : 95,
+		"name" : "Sam Burns",
+		"money" : "$1,117,312",
+		"tier" : 5,
+		"adjMoney" : 1117312,
+		"adjRanking" : 15,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000194.png",
+		"rankingChg" : "15 (15)"
+	},
+	{
+		"ranking" : 98,
+		"name" : "Scott Stallings",
+		"money" : "$1,080,451",
+		"tier" : 5,
+		"adjMoney" : 1080451,
+		"adjRanking" : 16,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001361.png",
+		"rankingChg" : "16 (18)"
+	},
+	{
+		"ranking" : 100,
+		"name" : "Carlos Ortiz",
+		"money" : "$1,073,962",
+		"tier" : 5,
+		"adjMoney" : 1073962,
+		"adjRanking" : 17,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001097.png",
+		"rankingChg" : "17 (20)"
+	},
+	{
+		"ranking" : 97,
+		"name" : "Bud Cauley",
+		"money" : "$1,090,018",
+		"tier" : 5,
+		"adjMoney" : 981016,
+		"adjRanking" : 18,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000230.png",
+		"rankingChg" : "18 (17)"
+	},
+	{
+		"ranking" : 99,
+		"name" : "Chris Stroud",
+		"money" : "$1,075,552",
+		"tier" : 5,
+		"adjMoney" : 967997,
+		"adjRanking" : 19,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001394.png",
+		"rankingChg" : "19 (19)"
+	},
+	{
+		"ranking" : 96,
+		"name" : "Pat Perez",
+		"money" : "$1,103,241",
+		"tier" : 5,
+		"adjMoney" : 882593,
+		"adjRanking" : 20,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001137.png",
+		"rankingChg" : "20 (16)"
+	},
+	{
+		"ranking" : 101,
+		"name" : "Talor Gooch",
+		"money" : "$1,067,089",
+		"tier" : 6,
+		"adjMoney" : 1067089,
+		"adjRanking" : 1,
+		"ranking_tiered" : 1,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000518.png",
+		"rankingChg" : "1 (1)"
+	},
+	{
+		"ranking" : 102,
+		"name" : "Kyoung-Hoon Lee",
+		"money" : "$1,061,457",
+		"tier" : 6,
+		"adjMoney" : 1061457,
+		"adjRanking" : 2,
+		"ranking_tiered" : 2,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000836.png",
+		"rankingChg" : "2 (2)"
+	},
+	{
+		"ranking" : 103,
+		"name" : "Sam Ryder",
+		"money" : "$1,060,735",
+		"tier" : 6,
+		"adjMoney" : 1060735,
+		"adjRanking" : 3,
+		"ranking_tiered" : 3,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001870.png",
+		"rankingChg" : "3 (3)"
+	},
+	{
+		"ranking" : 104,
+		"name" : "Aaron Wise",
+		"money" : "$1,052,507",
+		"tier" : 6,
+		"adjMoney" : 1052507,
+		"adjRanking" : 4,
+		"ranking_tiered" : 4,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002362.png",
+		"rankingChg" : "4 (4)"
+	},
+	{
+		"ranking" : 105,
+		"name" : "Cameron Tringale",
+		"money" : "$1,049,106",
+		"tier" : 6,
+		"adjMoney" : 1049106,
+		"adjRanking" : 5,
+		"ranking_tiered" : 5,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001460.png",
+		"rankingChg" : "5 (5)"
+	},
+	{
+		"ranking" : 106,
+		"name" : "Patrick Rodgers",
+		"money" : "$1,046,838",
+		"tier" : 6,
+		"adjMoney" : 1046838,
+		"adjRanking" : 6,
+		"ranking_tiered" : 6,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001232.png",
+		"rankingChg" : "6 (6)"
+	},
+	{
+		"ranking" : 117,
+		"name" : "Sepp Straka",
+		"money" : "$934,894",
+		"tier" : 6,
+		"adjMoney" : 1028383,
+		"adjRanking" : 7,
+		"ranking_tiered" : 17,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "7 (17)"
+	},
+	{
+		"ranking" : 108,
+		"name" : "Matt Jones",
+		"money" : "$1,024,852",
+		"tier" : 6,
+		"adjMoney" : 1024852,
+		"adjRanking" : 8,
+		"ranking_tiered" : 8,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000720.png",
+		"rankingChg" : "8 (8)"
+	},
+	{
+		"ranking" : 109,
+		"name" : "Mackenzie Hughes",
+		"money" : "$1,022,081",
+		"tier" : 6,
+		"adjMoney" : 1022081,
+		"adjRanking" : 9,
+		"ranking_tiered" : 9,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000659.png",
+		"rankingChg" : "9 (9)"
+	},
+	{
+		"ranking" : 110,
+		"name" : "Brice Garnett",
+		"money" : "$1,019,594",
+		"tier" : 6,
+		"adjMoney" : 1019594,
+		"adjRanking" : 10,
+		"ranking_tiered" : 10,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000482.png",
+		"rankingChg" : "10 (10)"
+	},
+	{
+		"ranking" : 111,
+		"name" : "Roger Sloan",
+		"money" : "$1,015,661",
+		"tier" : 6,
+		"adjMoney" : 1015661,
+		"adjRanking" : 11,
+		"ranking_tiered" : 11,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001326.png",
+		"rankingChg" : "11 (11)"
+	},
+	{
+		"ranking" : 112,
+		"name" : "Nick Watney",
+		"money" : "$1,008,964",
+		"tier" : 6,
+		"adjMoney" : 1008964,
+		"adjRanking" : 12,
+		"ranking_tiered" : 12,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001525.png",
+		"rankingChg" : "12 (12)"
+	},
+	{
+		"ranking" : 120,
+		"name" : "Alex Noren",
+		"money" : "$913,446",
+		"tier" : 6,
+		"adjMoney" : 1004791,
+		"adjRanking" : 13,
+		"ranking_tiered" : 20,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001064.png",
+		"rankingChg" : "13 (20)"
+	},
+	{
+		"ranking" : 113,
+		"name" : "Scott Brown",
+		"money" : "$999,457",
+		"tier" : 6,
+		"adjMoney" : 999457,
+		"adjRanking" : 14,
+		"ranking_tiered" : 13,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000182.png",
+		"rankingChg" : "14 (13)"
+	},
+	{
+		"ranking" : 121,
+		"name" : "Kelly Kraft",
+		"money" : "$905,681",
+		"tier" : 6,
+		"adjMoney" : 996249,
+		"adjRanking" : 15,
+		"ranking_tiered" : 21,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000789.png",
+		"rankingChg" : "15 (21)"
+	},
+	{
+		"ranking" : 114,
+		"name" : "Patton Kizzire",
+		"money" : "$995,341",
+		"tier" : 6,
+		"adjMoney" : 995341,
+		"adjRanking" : 16,
+		"ranking_tiered" : 14,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000772.png",
+		"rankingChg" : "16 (14)"
+	},
+	{
+		"ranking" : 125,
+		"name" : "Martin Kaymer",
+		"money" : "$877,761",
+		"tier" : 6,
+		"adjMoney" : 965537,
+		"adjRanking" : 17,
+		"ranking_tiered" : 25,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000741.png",
+		"rankingChg" : "17 (25)"
+	},
+	{
+		"ranking" : 116,
+		"name" : "Sebastián Muñoz",
+		"money" : "$946,666",
+		"tier" : 6,
+		"adjMoney" : 946666,
+		"adjRanking" : 18,
+		"ranking_tiered" : 16,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001682.png",
+		"rankingChg" : "18 (16)"
+	},
+	{
+		"ranking" : 107,
+		"name" : "Brian Gay",
+		"money" : "$1,029,440",
+		"tier" : 6,
+		"adjMoney" : 926496,
+		"adjRanking" : 19,
+		"ranking_tiered" : 7,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000491.png",
+		"rankingChg" : "19 (7)"
+	},
+	{
+		"ranking" : 119,
+		"name" : "Denny McCarthy",
+		"money" : "$925,156",
+		"tier" : 6,
+		"adjMoney" : 925156,
+		"adjRanking" : 20,
+		"ranking_tiered" : 19,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000946.png",
+		"rankingChg" : "20 (19)"
+	},
+	{
+		"ranking" : 122,
+		"name" : "Aaron Baddeley",
+		"money" : "$904,982",
+		"tier" : 6,
+		"adjMoney" : 904982,
+		"adjRanking" : 21,
+		"ranking_tiered" : 22,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000071.png",
+		"rankingChg" : "21 (22)"
+	},
+	{
+		"ranking" : 123,
+		"name" : "Nick Taylor",
+		"money" : "$892,663",
+		"tier" : 6,
+		"adjMoney" : 892663,
+		"adjRanking" : 22,
+		"ranking_tiered" : 23,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001424.png",
+		"rankingChg" : "22 (23)"
+	},
+	{
+		"ranking" : 124,
+		"name" : "Andrew Landry",
+		"money" : "$887,405",
+		"tier" : 6,
+		"adjMoney" : 887405,
+		"adjRanking" : 23,
+		"ranking_tiered" : 24,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000808.png",
+		"rankingChg" : "23 (24)"
+	},
+	{
+		"ranking" : 126,
+		"name" : "Peter Malnati",
+		"money" : "$864,496",
+		"tier" : 6,
+		"adjMoney" : 864496,
+		"adjRanking" : 24,
+		"ranking_tiered" : 26,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000915.png",
+		"rankingChg" : "24 (26)"
+	},
+	{
+		"ranking" : 127,
+		"name" : "Martin Laird",
+		"money" : "$863,054",
+		"tier" : 6,
+		"adjMoney" : 863054,
+		"adjRanking" : 25,
+		"ranking_tiered" : 27,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000802.png",
+		"rankingChg" : "25 (27)"
+	},
+	{
+		"ranking" : 128,
+		"name" : "Wes Roach",
+		"money" : "$860,264",
+		"tier" : 6,
+		"adjMoney" : 860264,
+		"adjRanking" : 26,
+		"ranking_tiered" : 28,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "26 (28)"
+	},
+	{
+		"ranking" : 115,
+		"name" : "Ryan Armour",
+		"money" : "$955,468",
+		"tier" : 6,
+		"adjMoney" : 859921,
+		"adjRanking" : 27,
+		"ranking_tiered" : 15,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000059.png",
+		"rankingChg" : "27 (15)"
+	},
+	{
+		"ranking" : 129,
+		"name" : "Richy Werenski",
+		"money" : "$851,329",
+		"tier" : 6,
+		"adjMoney" : 851329,
+		"adjRanking" : 28,
+		"ranking_tiered" : 29,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001540.png",
+		"rankingChg" : "28 (29)"
+	},
+	{
+		"ranking" : 130,
+		"name" : "Peter Uihlein",
+		"money" : "$842,991",
+		"tier" : 6,
+		"adjMoney" : 842991,
+		"adjRanking" : 29,
+		"ranking_tiered" : 30,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001476.png",
+		"rankingChg" : "29 (30)"
+	},
+	{
+		"ranking" : 131,
+		"name" : "Jonas Blixt",
+		"money" : "$838,271",
+		"tier" : 6,
+		"adjMoney" : 838271,
+		"adjRanking" : 30,
+		"ranking_tiered" : 31,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000136.png",
+		"rankingChg" : "30 (31)"
+	},
+	{
+		"ranking" : 132,
+		"name" : "Austin Cook",
+		"money" : "$837,788",
+		"tier" : 6,
+		"adjMoney" : 837788,
+		"adjRanking" : 31,
+		"ranking_tiered" : 32,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000272.png",
+		"rankingChg" : "31 (32)"
+	},
+	{
+		"ranking" : 118,
+		"name" : "Jason Dufner",
+		"money" : "$926,365",
+		"tier" : 6,
+		"adjMoney" : 833728,
+		"adjRanking" : 32,
+		"ranking_tiered" : 18,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000358.png",
+		"rankingChg" : "32 (18)"
+	},
+	{
+		"ranking" : 139,
+		"name" : "Zack Sucher",
+		"money" : "$753,782",
+		"tier" : 6,
+		"adjMoney" : 829160,
+		"adjRanking" : 33,
+		"ranking_tiered" : 39,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "33 (39)"
+	},
+	{
+		"ranking" : 133,
+		"name" : "Bronson Burgoon",
+		"money" : "$814,673",
+		"tier" : 6,
+		"adjMoney" : 814673,
+		"adjRanking" : 34,
+		"ranking_tiered" : 33,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000192.png",
+		"rankingChg" : "34 (33)"
+	},
+	{
+		"ranking" : 134,
+		"name" : "Shawn Stefani",
+		"money" : "$798,831",
+		"tier" : 6,
+		"adjMoney" : 798831,
+		"adjRanking" : 35,
+		"ranking_tiered" : 34,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "35 (34)"
+	},
+	{
+		"ranking" : 135,
+		"name" : "Robert Streb",
+		"money" : "$796,525",
+		"tier" : 6,
+		"adjMoney" : 796525,
+		"adjRanking" : 36,
+		"ranking_tiered" : 35,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001388.png",
+		"rankingChg" : "36 (35)"
+	},
+	{
+		"ranking" : 136,
+		"name" : "Seamus Power",
+		"money" : "$773,976",
+		"tier" : 6,
+		"adjMoney" : 773976,
+		"adjRanking" : 37,
+		"ranking_tiered" : 36,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001685.png",
+		"rankingChg" : "37 (36)"
+	},
+	{
+		"ranking" : 137,
+		"name" : "Ted Potter, Jr.",
+		"money" : "$757,721",
+		"tier" : 6,
+		"adjMoney" : 757721,
+		"adjRanking" : 38,
+		"ranking_tiered" : 37,
+		"photoURL" : null,
+		"rankingChg" : "38 (37)"
+	},
+	{
+		"ranking" : 138,
+		"name" : "Ryan Blaum",
+		"money" : "$755,802",
+		"tier" : 6,
+		"adjMoney" : 755802,
+		"adjRanking" : 39,
+		"ranking_tiered" : 38,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000135.png",
+		"rankingChg" : "39 (38)"
+	},
+	{
+		"ranking" : 141,
+		"name" : "Bill Haas",
+		"money" : "$730,806",
+		"tier" : 6,
+		"adjMoney" : 730806,
+		"adjRanking" : 40,
+		"ranking_tiered" : 41,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000005.png",
+		"rankingChg" : "40 (41)"
+	},
+	{
+		"ranking" : 142,
+		"name" : "Martin Trainer",
+		"money" : "$692,155",
+		"tier" : 6,
+		"adjMoney" : 692155,
+		"adjRanking" : 41,
+		"ranking_tiered" : 42,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001458.png",
+		"rankingChg" : "41 (42)"
+	},
+	{
+		"ranking" : 143,
+		"name" : "Jim Herman",
+		"money" : "$678,185",
+		"tier" : 6,
+		"adjMoney" : 678185,
+		"adjRanking" : 42,
+		"ranking_tiered" : 43,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000620.png",
+		"rankingChg" : "42 (43)"
+	},
+	{
+		"ranking" : 144,
+		"name" : "Roberto Castro",
+		"money" : "$674,250",
+		"tier" : 6,
+		"adjMoney" : 674250,
+		"adjRanking" : 43,
+		"ranking_tiered" : 44,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000229.png",
+		"rankingChg" : "43 (44)"
+	},
+	{
+		"ranking" : 145,
+		"name" : "Dominic Bozzelli",
+		"money" : "$668,449",
+		"tier" : 6,
+		"adjMoney" : 668449,
+		"adjRanking" : 44,
+		"ranking_tiered" : 45,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001665.png",
+		"rankingChg" : "44 (45)"
+	},
+	{
+		"ranking" : 140,
+		"name" : "Daniel Berger",
+		"money" : "$742,340",
+		"tier" : 6,
+		"adjMoney" : 668106,
+		"adjRanking" : 45,
+		"ranking_tiered" : 40,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000115.png",
+		"rankingChg" : "45 (40)"
+	},
+	{
+		"ranking" : 146,
+		"name" : "Josh Teater",
+		"money" : "$663,570",
+		"tier" : 6,
+		"adjMoney" : 663570,
+		"adjRanking" : 46,
+		"ranking_tiered" : 46,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "46 (46)"
+	},
+	{
+		"ranking" : 147,
+		"name" : "Hank Lebioda",
+		"money" : "$656,802",
+		"tier" : 6,
+		"adjMoney" : 656802,
+		"adjRanking" : 47,
+		"ranking_tiered" : 47,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "47 (47)"
+	},
+	{
+		"ranking" : 148,
+		"name" : "Beau Hossler",
+		"money" : "$645,795",
+		"tier" : 6,
+		"adjMoney" : 645795,
+		"adjRanking" : 48,
+		"ranking_tiered" : 48,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000647.png",
+		"rankingChg" : "48 (48)"
+	},
+	{
+		"ranking" : 149,
+		"name" : "Scott Langley",
+		"money" : "$635,883",
+		"tier" : 6,
+		"adjMoney" : 635883,
+		"adjRanking" : 49,
+		"ranking_tiered" : 49,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000812.png",
+		"rankingChg" : "49 (49)"
+	},
+	{
+		"ranking" : 150,
+		"name" : "Harris English",
+		"money" : "$628,922",
+		"tier" : 6,
+		"adjMoney" : 628922,
+		"adjRanking" : 50,
+		"ranking_tiered" : 50,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000387.png",
+		"rankingChg" : "50 (50)"
+	},
+	{
+		"ranking" : 151,
+		"name" : "Stephan Jaeger",
+		"money" : "$623,145",
+		"tier" : 6,
+		"adjMoney" : 623145,
+		"adjRanking" : 51,
+		"ranking_tiered" : 51,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "51 (51)"
+	},
+	{
+		"ranking" : 152,
+		"name" : "Roberto Díaz",
+		"money" : "$620,178",
+		"tier" : 6,
+		"adjMoney" : 620178,
+		"adjRanking" : 52,
+		"ranking_tiered" : 52,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "52 (52)"
+	},
+	{
+		"ranking" : 154,
+		"name" : "Johnson Wagner",
+		"money" : "$597,792",
+		"tier" : 6,
+		"adjMoney" : 597792,
+		"adjRanking" : 53,
+		"ranking_tiered" : 54,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001510.png",
+		"rankingChg" : "53 (54)"
+	},
+	{
+		"ranking" : 155,
+		"name" : "Tyler Duncan",
+		"money" : "$596,502",
+		"tier" : 6,
+		"adjMoney" : 596502,
+		"adjRanking" : 54,
+		"ranking_tiered" : 55,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000363.png",
+		"rankingChg" : "54 (55)"
+	},
+	{
+		"ranking" : 157,
+		"name" : "Tom Hoge",
+		"money" : "$573,464",
+		"tier" : 6,
+		"adjMoney" : 573464,
+		"adjRanking" : 55,
+		"ranking_tiered" : 57,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000634.png",
+		"rankingChg" : "55 (57)"
+	},
+	{
+		"ranking" : 158,
+		"name" : "Chase Wright",
+		"money" : "$571,575",
+		"tier" : 6,
+		"adjMoney" : 571575,
+		"adjRanking" : 56,
+		"ranking_tiered" : 58,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001599.png",
+		"rankingChg" : "56 (58)"
+	},
+	{
+		"ranking" : 160,
+		"name" : "Hudson Swafford",
+		"money" : "$545,191",
+		"tier" : 6,
+		"adjMoney" : 545191,
+		"adjRanking" : 57,
+		"ranking_tiered" : 60,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001416.png",
+		"rankingChg" : "57 (60)"
+	},
+	{
+		"ranking" : 153,
+		"name" : "Zach Johnson",
+		"money" : "$603,160",
+		"tier" : 6,
+		"adjMoney" : 542844,
+		"adjRanking" : 58,
+		"ranking_tiered" : 53,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000012.png",
+		"rankingChg" : "58 (53)"
+	},
+	{
+		"ranking" : 161,
+		"name" : "Trey Mullinax",
+		"money" : "$536,694",
+		"tier" : 6,
+		"adjMoney" : 536694,
+		"adjRanking" : 59,
+		"ranking_tiered" : 61,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001030.png",
+		"rankingChg" : "59 (61)"
+	},
+	{
+		"ranking" : 156,
+		"name" : "Jimmy Walker",
+		"money" : "$590,437",
+		"tier" : 6,
+		"adjMoney" : 531393,
+		"adjRanking" : 60,
+		"ranking_tiered" : 56,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000009.png",
+		"rankingChg" : "60 (56)"
+	},
+	{
+		"ranking" : 162,
+		"name" : "Brendan Steele",
+		"money" : "$515,139",
+		"tier" : 6,
+		"adjMoney" : 515139,
+		"adjRanking" : 61,
+		"ranking_tiered" : 62,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001369.png",
+		"rankingChg" : "61 (62)"
+	},
+	{
+		"ranking" : 163,
+		"name" : "D.J. Trahan",
+		"money" : "$507,919",
+		"tier" : 6,
+		"adjMoney" : 507919,
+		"adjRanking" : 62,
+		"ranking_tiered" : 63,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001457.png",
+		"rankingChg" : "62 (63)"
+	},
+	{
+		"ranking" : 159,
+		"name" : "Jonathan Byrd",
+		"money" : "$550,547",
+		"tier" : 6,
+		"adjMoney" : 495492,
+		"adjRanking" : 63,
+		"ranking_tiered" : 59,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000196.png",
+		"rankingChg" : "63 (59)"
+	},
+	{
+		"ranking" : 164,
+		"name" : "Brandon Harkins",
+		"money" : "$494,795",
+		"tier" : 6,
+		"adjMoney" : 494795,
+		"adjRanking" : 64,
+		"ranking_tiered" : 64,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001757.png",
+		"rankingChg" : "64 (64)"
+	},
+	{
+		"ranking" : 165,
+		"name" : "Kramer Hickok",
+		"money" : "$494,424",
+		"tier" : 6,
+		"adjMoney" : 494424,
+		"adjRanking" : 65,
+		"ranking_tiered" : 65,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001675.png",
+		"rankingChg" : "65 (65)"
+	},
+	{
+		"ranking" : 166,
+		"name" : "Jim Knous",
+		"money" : "$490,976",
+		"tier" : 6,
+		"adjMoney" : 490976,
+		"adjRanking" : 66,
+		"ranking_tiered" : 66,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "66 (66)"
+	},
+	{
+		"ranking" : 167,
+		"name" : "Cameron Davis",
+		"money" : "$477,467",
+		"tier" : 6,
+		"adjMoney" : 477467,
+		"adjRanking" : 67,
+		"ranking_tiered" : 67,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "67 (67)"
+	},
+	{
+		"ranking" : 168,
+		"name" : "Alex Prugh",
+		"money" : "$467,732",
+		"tier" : 6,
+		"adjMoney" : 467732,
+		"adjRanking" : 68,
+		"ranking_tiered" : 68,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "68 (68)"
+	},
+	{
+		"ranking" : 169,
+		"name" : "Joey Garber",
+		"money" : "$454,296",
+		"tier" : 6,
+		"adjMoney" : 454296,
+		"adjRanking" : 69,
+		"ranking_tiered" : 69,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "69 (69)"
+	},
+	{
+		"ranking" : 170,
+		"name" : "Anders Albertson",
+		"money" : "$449,226",
+		"tier" : 6,
+		"adjMoney" : 449226,
+		"adjRanking" : 70,
+		"ranking_tiered" : 70,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "70 (70)"
+	},
+	{
+		"ranking" : 172,
+		"name" : "Curtis Luck",
+		"money" : "$432,569",
+		"tier" : 6,
+		"adjMoney" : 432569,
+		"adjRanking" : 71,
+		"ranking_tiered" : 72,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40002494.png",
+		"rankingChg" : "71 (72)"
+	},
+	{
+		"ranking" : 173,
+		"name" : "Satoshi Kodaira",
+		"money" : "$421,457",
+		"tier" : 6,
+		"adjMoney" : 421457,
+		"adjRanking" : 72,
+		"ranking_tiered" : 73,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000782.png",
+		"rankingChg" : "72 (73)"
+	},
+	{
+		"ranking" : 174,
+		"name" : "Anirban Lahiri",
+		"money" : "$419,620",
+		"tier" : 6,
+		"adjMoney" : 419620,
+		"adjRanking" : 73,
+		"ranking_tiered" : 74,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000018.png",
+		"rankingChg" : "73 (74)"
+	},
+	{
+		"ranking" : 175,
+		"name" : "Sam Saunders",
+		"money" : "$413,887",
+		"tier" : 6,
+		"adjMoney" : 413887,
+		"adjRanking" : 74,
+		"ranking_tiered" : 75,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001267.png",
+		"rankingChg" : "74 (75)"
+	},
+	{
+		"ranking" : 176,
+		"name" : "Ollie Schniederjans",
+		"money" : "$411,682",
+		"tier" : 6,
+		"adjMoney" : 411682,
+		"adjRanking" : 75,
+		"ranking_tiered" : 76,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001283.png",
+		"rankingChg" : "75 (76)"
+	},
+	{
+		"ranking" : 177,
+		"name" : "Adam Svensson",
+		"money" : "$405,730",
+		"tier" : 6,
+		"adjMoney" : 405730,
+		"adjRanking" : 76,
+		"ranking_tiered" : 77,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "76 (77)"
+	},
+	{
+		"ranking" : 179,
+		"name" : "José de Jesús Rodríguez",
+		"money" : "$394,402",
+		"tier" : 6,
+		"adjMoney" : 394402,
+		"adjRanking" : 77,
+		"ranking_tiered" : 79,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001233.png",
+		"rankingChg" : "77 (79)"
+	},
+	{
+		"ranking" : 171,
+		"name" : "Fabián Gómez",
+		"money" : "$433,027",
+		"tier" : 6,
+		"adjMoney" : 389724,
+		"adjRanking" : 78,
+		"ranking_tiered" : 71,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000514.png",
+		"rankingChg" : "78 (71)"
+	},
+	{
+		"ranking" : 181,
+		"name" : "Julián Etulain",
+		"money" : "$360,653",
+		"tier" : 6,
+		"adjMoney" : 360653,
+		"adjRanking" : 79,
+		"ranking_tiered" : 81,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "79 (81)"
+	},
+	{
+		"ranking" : 178,
+		"name" : "David Hearn",
+		"money" : "$397,677",
+		"tier" : 6,
+		"adjMoney" : 357909,
+		"adjRanking" : 80,
+		"ranking_tiered" : 78,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000602.png",
+		"rankingChg" : "80 (78)"
+	},
+	{
+		"ranking" : 180,
+		"name" : "Stewart Cink",
+		"money" : "$368,008",
+		"tier" : 6,
+		"adjMoney" : 331207,
+		"adjRanking" : 81,
+		"ranking_tiered" : 80,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000248.png",
+		"rankingChg" : "81 (80)"
+	},
+	{
+		"ranking" : 185,
+		"name" : "John Chin",
+		"money" : "$294,536",
+		"tier" : 6,
+		"adjMoney" : 323990,
+		"adjRanking" : 82,
+		"ranking_tiered" : 85,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "82 (85)"
+	},
+	{
+		"ranking" : 182,
+		"name" : "Seth Reeves",
+		"money" : "$309,588",
+		"tier" : 6,
+		"adjMoney" : 309588,
+		"adjRanking" : 83,
+		"ranking_tiered" : 82,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "83 (82)"
+	},
+	{
+		"ranking" : 189,
+		"name" : "Kyle Jones",
+		"money" : "$277,762",
+		"tier" : 6,
+		"adjMoney" : 305538,
+		"adjRanking" : 84,
+		"ranking_tiered" : 89,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "84 (89)"
+	},
+	{
+		"ranking" : 184,
+		"name" : "Ben Silverman",
+		"money" : "$298,497",
+		"tier" : 6,
+		"adjMoney" : 298497,
+		"adjRanking" : 85,
+		"ranking_tiered" : 84,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001309.png",
+		"rankingChg" : "85 (84)"
+	},
+	{
+		"ranking" : 186,
+		"name" : "Whee Kim",
+		"money" : "$292,773",
+		"tier" : 6,
+		"adjMoney" : 292773,
+		"adjRanking" : 86,
+		"ranking_tiered" : 86,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000762.png",
+		"rankingChg" : "86 (86)"
+	},
+	{
+		"ranking" : 187,
+		"name" : "Hunter Mahan",
+		"money" : "$287,579",
+		"tier" : 6,
+		"adjMoney" : 287579,
+		"adjRanking" : 87,
+		"ranking_tiered" : 87,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000912.png",
+		"rankingChg" : "87 (87)"
+	},
+	{
+		"ranking" : 192,
+		"name" : "Kevin Chappell",
+		"money" : "$257,024",
+		"tier" : 6,
+		"adjMoney" : 282726,
+		"adjRanking" : 88,
+		"ranking_tiered" : 92,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000236.png",
+		"rankingChg" : "88 (92)"
+	},
+	{
+		"ranking" : 183,
+		"name" : "Ernie Els",
+		"money" : "$304,590",
+		"tier" : 6,
+		"adjMoney" : 274131,
+		"adjRanking" : 89,
+		"ranking_tiered" : 83,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000383.png",
+		"rankingChg" : "89 (83)"
+	},
+	{
+		"ranking" : 191,
+		"name" : "Chris Kirk",
+		"money" : "$261,401",
+		"tier" : 6,
+		"adjMoney" : 261401,
+		"adjRanking" : 90,
+		"ranking_tiered" : 91,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000011.png",
+		"rankingChg" : "90 (91)"
+	},
+	{
+		"ranking" : 188,
+		"name" : "Luke Donald",
+		"money" : "$285,630",
+		"tier" : 6,
+		"adjMoney" : 257067,
+		"adjRanking" : 91,
+		"ranking_tiered" : 88,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000345.png",
+		"rankingChg" : "91 (88)"
+	},
+	{
+		"ranking" : 193,
+		"name" : "Brendon Todd",
+		"money" : "$252,546",
+		"tier" : 6,
+		"adjMoney" : 252546,
+		"adjRanking" : 92,
+		"ranking_tiered" : 93,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001447.png",
+		"rankingChg" : "92 (93)"
+	},
+	{
+		"ranking" : 194,
+		"name" : "Cody Gribble",
+		"money" : "$248,317",
+		"tier" : 6,
+		"adjMoney" : 248317,
+		"adjRanking" : 93,
+		"ranking_tiered" : 94,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000534.png",
+		"rankingChg" : "93 (94)"
+	},
+	{
+		"ranking" : 196,
+		"name" : "Billy Hurley III",
+		"money" : "$239,396",
+		"tier" : 6,
+		"adjMoney" : 239396,
+		"adjRanking" : 94,
+		"ranking_tiered" : 96,
+		"photoURL" : null,
+		"rankingChg" : "94 (96)"
+	},
+	{
+		"ranking" : 197,
+		"name" : "Charl Schwartzel",
+		"money" : "$232,725",
+		"tier" : 6,
+		"adjMoney" : 232725,
+		"adjRanking" : 95,
+		"ranking_tiered" : 97,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001290.png",
+		"rankingChg" : "95 (97)"
+	},
+	{
+		"ranking" : 195,
+		"name" : "Vijay Singh",
+		"money" : "$244,800",
+		"tier" : 6,
+		"adjMoney" : 220320,
+		"adjRanking" : 96,
+		"ranking_tiered" : 95,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001317.png",
+		"rankingChg" : "96 (95)"
+	},
+	{
+		"ranking" : 190,
+		"name" : "Davis Love III",
+		"money" : "$271,216",
+		"tier" : 6,
+		"adjMoney" : 216972,
+		"adjRanking" : 97,
+		"ranking_tiered" : 90,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000884.png",
+		"rankingChg" : "97 (90)"
+	},
+	{
+		"ranking" : 199,
+		"name" : "Brady Schnell",
+		"money" : "$210,914",
+		"tier" : 6,
+		"adjMoney" : 210914,
+		"adjRanking" : 98,
+		"ranking_tiered" : 99,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001282.png",
+		"rankingChg" : "98 (99)"
+	},
+	{
+		"ranking" : 198,
+		"name" : "Nicholas Lindheim",
+		"money" : "$227,124",
+		"tier" : 6,
+		"adjMoney" : 204412,
+		"adjRanking" : 99,
+		"ranking_tiered" : 98,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000866.png",
+		"rankingChg" : "99 (98)"
+	},
+	{
+		"ranking" : 200,
+		"name" : "Sean O'Hair",
+		"money" : "$201,352",
+		"tier" : 6,
+		"adjMoney" : 181217,
+		"adjRanking" : 100,
+		"ranking_tiered" : 100,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001071.png",
+		"rankingChg" : "100 (100)"
+	},
+	{
+		"ranking" : 201,
+		"name" : "Ben Crane",
+		"money" : "$193,074",
+		"tier" : 6,
+		"adjMoney" : 173767,
+		"adjRanking" : 101,
+		"ranking_tiered" : 101,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000287.png",
+		"rankingChg" : "101 (101)"
+	},
+	{
+		"ranking" : 206,
+		"name" : "Sangmoon Bae",
+		"money" : "$172,472",
+		"tier" : 6,
+		"adjMoney" : 172472,
+		"adjRanking" : 102,
+		"ranking_tiered" : 106,
+		"photoURL" : null,
+		"rankingChg" : "102 (106)"
+	},
+	{
+		"ranking" : 202,
+		"name" : "George McNeill",
+		"money" : "$187,950",
+		"tier" : 6,
+		"adjMoney" : 169155,
+		"adjRanking" : 103,
+		"ranking_tiered" : 102,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000978.png",
+		"rankingChg" : "103 (102)"
+	},
+	{
+		"ranking" : 203,
+		"name" : "K.J. Choi",
+		"money" : "$185,952",
+		"tier" : 6,
+		"adjMoney" : 167357,
+		"adjRanking" : 104,
+		"ranking_tiered" : 103,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000244.png",
+		"rankingChg" : "104 (103)"
+	},
+	{
+		"ranking" : 204,
+		"name" : "Alex Cejka",
+		"money" : "$181,155",
+		"tier" : 6,
+		"adjMoney" : 163039,
+		"adjRanking" : 105,
+		"ranking_tiered" : 104,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000232.png",
+		"rankingChg" : "105 (104)"
+	},
+	{
+		"ranking" : 205,
+		"name" : "J.J. Henry",
+		"money" : "$177,232",
+		"tier" : 6,
+		"adjMoney" : 159509,
+		"adjRanking" : 106,
+		"ranking_tiered" : 105,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000617.png",
+		"rankingChg" : "106 (105)"
+	},
+	{
+		"ranking" : 208,
+		"name" : "James Hahn",
+		"money" : "$159,343",
+		"tier" : 6,
+		"adjMoney" : 159343,
+		"adjRanking" : 107,
+		"ranking_tiered" : 108,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000564.png",
+		"rankingChg" : "107 (108)"
+	},
+	{
+		"ranking" : 207,
+		"name" : "Padraig Harrington",
+		"money" : "$169,390",
+		"tier" : 6,
+		"adjMoney" : 152451,
+		"adjRanking" : 108,
+		"ranking_tiered" : 107,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000587.png",
+		"rankingChg" : "108 (107)"
+	},
+	{
+		"ranking" : 209,
+		"name" : "Jamie Lovemark",
+		"money" : "$145,999",
+		"tier" : 6,
+		"adjMoney" : 145999,
+		"adjRanking" : 109,
+		"ranking_tiered" : 109,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000885.png",
+		"rankingChg" : "109 (109)"
+	},
+	{
+		"ranking" : 210,
+		"name" : "Tom Lovelady",
+		"money" : "$145,647",
+		"tier" : 6,
+		"adjMoney" : 145647,
+		"adjRanking" : 110,
+		"ranking_tiered" : 110,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "110 (110)"
+	},
+	{
+		"ranking" : 211,
+		"name" : "Freddie Jacobson",
+		"money" : "$144,500",
+		"tier" : 6,
+		"adjMoney" : 144500,
+		"adjRanking" : 111,
+		"ranking_tiered" : 111,
+		"photoURL" : null,
+		"rankingChg" : "111 (111)"
+	},
+	{
+		"ranking" : 213,
+		"name" : "Martin Piller",
+		"money" : "$134,029",
+		"tier" : 6,
+		"adjMoney" : 134029,
+		"adjRanking" : 112,
+		"ranking_tiered" : 113,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001159.png",
+		"rankingChg" : "112 (113)"
+	},
+	{
+		"ranking" : 212,
+		"name" : "Steve Stricker",
+		"money" : "$135,670",
+		"tier" : 6,
+		"adjMoney" : 122103,
+		"adjRanking" : 113,
+		"ranking_tiered" : 112,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001392.png",
+		"rankingChg" : "113 (112)"
+	},
+	{
+		"ranking" : 215,
+		"name" : "Tyrone Van Aswegen",
+		"money" : "$114,780",
+		"tier" : 6,
+		"adjMoney" : 114780,
+		"adjRanking" : 114,
+		"ranking_tiered" : 115,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001481.png",
+		"rankingChg" : "114 (115)"
+	},
+	{
+		"ranking" : 214,
+		"name" : "Grayson Murray",
+		"money" : "$125,511",
+		"tier" : 6,
+		"adjMoney" : 112960,
+		"adjRanking" : 115,
+		"ranking_tiered" : 114,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001038.png",
+		"rankingChg" : "115 (114)"
+	},
+	{
+		"ranking" : 217,
+		"name" : "Michael Kim",
+		"money" : "$104,936",
+		"tier" : 6,
+		"adjMoney" : 104936,
+		"adjRanking" : 116,
+		"ranking_tiered" : 117,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000763.png",
+		"rankingChg" : "116 (117)"
+	},
+	{
+		"ranking" : 220,
+		"name" : "John Huh",
+		"money" : "$97,255",
+		"tier" : 6,
+		"adjMoney" : 97255,
+		"adjRanking" : 117,
+		"ranking_tiered" : 120,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000661.png",
+		"rankingChg" : "117 (120)"
+	},
+	{
+		"ranking" : 222,
+		"name" : "Morgan Hoffmann",
+		"money" : "$92,212",
+		"tier" : 6,
+		"adjMoney" : 92212,
+		"adjRanking" : 118,
+		"ranking_tiered" : 122,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000633.png",
+		"rankingChg" : "118 (122)"
+	},
+	{
+		"ranking" : 218,
+		"name" : "Rod Pampling",
+		"money" : "$102,127",
+		"tier" : 6,
+		"adjMoney" : 91914,
+		"adjRanking" : 119,
+		"ranking_tiered" : 118,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001108.png",
+		"rankingChg" : "119 (118)"
+	},
+	{
+		"ranking" : 219,
+		"name" : "John Senden",
+		"money" : "$99,419",
+		"tier" : 6,
+		"adjMoney" : 89477,
+		"adjRanking" : 120,
+		"ranking_tiered" : 119,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001296.png",
+		"rankingChg" : "120 (119)"
+	},
+	{
+		"ranking" : 216,
+		"name" : "Boo Weekley",
+		"money" : "$107,981",
+		"tier" : 6,
+		"adjMoney" : 86385,
+		"adjRanking" : 121,
+		"ranking_tiered" : 116,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001532.png",
+		"rankingChg" : "121 (116)"
+	},
+	{
+		"ranking" : 225,
+		"name" : "Derek Fathauer",
+		"money" : "$76,850",
+		"tier" : 6,
+		"adjMoney" : 76850,
+		"adjRanking" : 122,
+		"ranking_tiered" : 125,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000408.png",
+		"rankingChg" : "122 (125)"
+	},
+	{
+		"ranking" : 223,
+		"name" : "Robert Garrigus",
+		"money" : "$84,191",
+		"tier" : 6,
+		"adjMoney" : 75772,
+		"adjRanking" : 123,
+		"ranking_tiered" : 123,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000484.png",
+		"rankingChg" : "123 (123)"
+	},
+	{
+		"ranking" : 226,
+		"name" : "Andres Romero",
+		"money" : "$74,786",
+		"tier" : 6,
+		"adjMoney" : 74786,
+		"adjRanking" : 124,
+		"ranking_tiered" : 126,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001236.png",
+		"rankingChg" : "124 (126)"
+	},
+	{
+		"ranking" : 221,
+		"name" : "Jason Gore",
+		"money" : "$92,960",
+		"tier" : 6,
+		"adjMoney" : 74368,
+		"adjRanking" : 125,
+		"ranking_tiered" : 121,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000520.png",
+		"rankingChg" : "125 (121)"
+	},
+	{
+		"ranking" : 224,
+		"name" : "Chris Thompson",
+		"money" : "$81,635",
+		"tier" : 6,
+		"adjMoney" : 73471,
+		"adjRanking" : 126,
+		"ranking_tiered" : 124,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001435.png",
+		"rankingChg" : "126 (124)"
+	},
+	{
+		"ranking" : 227,
+		"name" : "David Lingmerth",
+		"money" : "$71,644",
+		"tier" : 6,
+		"adjMoney" : 71644,
+		"adjRanking" : 127,
+		"ranking_tiered" : 127,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000867.png",
+		"rankingChg" : "127 (127)"
+	},
+	{
+		"ranking" : 230,
+		"name" : "David Toms",
+		"money" : "$61,438",
+		"tier" : 6,
+		"adjMoney" : 61438,
+		"adjRanking" : 128,
+		"ranking_tiered" : 130,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001454.png",
+		"rankingChg" : "128 (130)"
+	},
+	{
+		"ranking" : 228,
+		"name" : "Colt Knost",
+		"money" : "$66,493",
+		"tier" : 6,
+		"adjMoney" : 59844,
+		"adjRanking" : 129,
+		"ranking_tiered" : 128,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000777.png",
+		"rankingChg" : "129 (128)"
+	},
+	{
+		"ranking" : 229,
+		"name" : "Arjun Atwal",
+		"money" : "$62,095",
+		"tier" : 6,
+		"adjMoney" : 55885,
+		"adjRanking" : 130,
+		"ranking_tiered" : 129,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "130 (129)"
+	},
+	{
+		"ranking" : 231,
+		"name" : "Chad Collins",
+		"money" : "$59,164",
+		"tier" : 6,
+		"adjMoney" : 53248,
+		"adjRanking" : 131,
+		"ranking_tiered" : 131,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000263.png",
+		"rankingChg" : "131 (131)"
+	},
+	{
+		"ranking" : 232,
+		"name" : "Tim Herron",
+		"money" : "$43,281",
+		"tier" : 6,
+		"adjMoney" : 38953,
+		"adjRanking" : 132,
+		"ranking_tiered" : 132,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000622.png",
+		"rankingChg" : "132 (132)"
+	},
+	{
+		"ranking" : 233,
+		"name" : "D.A. Points",
+		"money" : "$43,246",
+		"tier" : 6,
+		"adjMoney" : 38921,
+		"adjRanking" : 133,
+		"ranking_tiered" : 133,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001163.png",
+		"rankingChg" : "133 (133)"
+	},
+	{
+		"ranking" : 234,
+		"name" : "Chad Campbell",
+		"money" : "$42,130",
+		"tier" : 6,
+		"adjMoney" : 37917,
+		"adjRanking" : 134,
+		"ranking_tiered" : 134,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000206.png",
+		"rankingChg" : "134 (134)"
+	},
+	{
+		"ranking" : 235,
+		"name" : "Daniel Chopra",
+		"money" : "$40,401",
+		"tier" : 6,
+		"adjMoney" : 36361,
+		"adjRanking" : 135,
+		"ranking_tiered" : 135,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000245.png",
+		"rankingChg" : "135 (135)"
+	},
+	{
+		"ranking" : 236,
+		"name" : "Y.E. Yang",
+		"money" : "$39,055",
+		"tier" : 6,
+		"adjMoney" : 35149,
+		"adjRanking" : 136,
+		"ranking_tiered" : 136,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001607.png",
+		"rankingChg" : "136 (136)"
+	},
+	{
+		"ranking" : 239,
+		"name" : "John Rollins",
+		"money" : "$32,424",
+		"tier" : 6,
+		"adjMoney" : 32424,
+		"adjRanking" : 137,
+		"ranking_tiered" : 139,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001235.png",
+		"rankingChg" : "137 (139)"
+	},
+	{
+		"ranking" : 237,
+		"name" : "Trevor Immelman",
+		"money" : "$35,353",
+		"tier" : 6,
+		"adjMoney" : 31818,
+		"adjRanking" : 138,
+		"ranking_tiered" : 137,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000677.png",
+		"rankingChg" : "138 (137)"
+	},
+	{
+		"ranking" : 241,
+		"name" : "Mike Weir",
+		"money" : "$27,643",
+		"tier" : 6,
+		"adjMoney" : 27643,
+		"adjRanking" : 139,
+		"ranking_tiered" : 141,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001536.png",
+		"rankingChg" : "139 (141)"
+	},
+	{
+		"ranking" : 242,
+		"name" : "Chris Couch",
+		"money" : "$27,166",
+		"tier" : 6,
+		"adjMoney" : 27166,
+		"adjRanking" : 140,
+		"ranking_tiered" : 142,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001641.png",
+		"rankingChg" : "140 (142)"
+	},
+	{
+		"ranking" : 240,
+		"name" : "Parker McLachlin",
+		"money" : "$29,674",
+		"tier" : 6,
+		"adjMoney" : 26707,
+		"adjRanking" : 141,
+		"ranking_tiered" : 140,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000969.png",
+		"rankingChg" : "141 (140)"
+	},
+	{
+		"ranking" : 238,
+		"name" : "Stuart Appleby",
+		"money" : "$33,336",
+		"tier" : 6,
+		"adjMoney" : 26668,
+		"adjRanking" : 142,
+		"ranking_tiered" : 138,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000054.png",
+		"rankingChg" : "142 (138)"
+	},
+	{
+		"ranking" : 245,
+		"name" : "Ricky Barnes",
+		"money" : "$22,370",
+		"tier" : 6,
+		"adjMoney" : 24607,
+		"adjRanking" : 143,
+		"ranking_tiered" : 145,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000095.png",
+		"rankingChg" : "143 (145)"
+	},
+	{
+		"ranking" : 243,
+		"name" : "Bernhard Langer",
+		"money" : "$25,415",
+		"tier" : 6,
+		"adjMoney" : 22873,
+		"adjRanking" : 144,
+		"ranking_tiered" : 143,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000811.png",
+		"rankingChg" : "144 (143)"
+	},
+	{
+		"ranking" : 244,
+		"name" : "Fred Couples",
+		"money" : "$23,680",
+		"tier" : 6,
+		"adjMoney" : 21312,
+		"adjRanking" : 145,
+		"ranking_tiered" : 144,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000285.png",
+		"rankingChg" : "145 (144)"
+	},
+	{
+		"ranking" : 246,
+		"name" : "Tommy Gainey",
+		"money" : "$21,560",
+		"tier" : 6,
+		"adjMoney" : 19404,
+		"adjRanking" : 146,
+		"ranking_tiered" : 146,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "146 (146)"
+	},
+	{
+		"ranking" : 248,
+		"name" : "Charlie Beljan",
+		"money" : "$18,304",
+		"tier" : 6,
+		"adjMoney" : 18304,
+		"adjRanking" : 147,
+		"ranking_tiered" : 148,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "147 (148)"
+	},
+	{
+		"ranking" : 247,
+		"name" : "Rich Beem",
+		"money" : "$18,550",
+		"tier" : 6,
+		"adjMoney" : 16695,
+		"adjRanking" : 148,
+		"ranking_tiered" : 147,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000107.png",
+		"rankingChg" : "148 (147)"
+	},
+	{
+		"ranking" : 249,
+		"name" : "Derek Ernst",
+		"money" : "$15,172",
+		"tier" : 6,
+		"adjMoney" : 15172,
+		"adjRanking" : 149,
+		"ranking_tiered" : 149,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000391.png",
+		"rankingChg" : "149 (149)"
+	},
+	{
+		"ranking" : 254,
+		"name" : "John Merrick",
+		"money" : "$13,611",
+		"tier" : 6,
+		"adjMoney" : 14972,
+		"adjRanking" : 150,
+		"ranking_tiered" : 154,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000986.png",
+		"rankingChg" : "150 (154)"
+	},
+	{
+		"ranking" : 250,
+		"name" : "Robert Allenby",
+		"money" : "$14,715",
+		"tier" : 6,
+		"adjMoney" : 14715,
+		"adjRanking" : 151,
+		"ranking_tiered" : 150,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000039.png",
+		"rankingChg" : "151 (150)"
+	},
+	{
+		"ranking" : 251,
+		"name" : "Brandon Hagy",
+		"money" : "$14,555",
+		"tier" : 6,
+		"adjMoney" : 14555,
+		"adjRanking" : 152,
+		"ranking_tiered" : 151,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "152 (151)"
+	},
+	{
+		"ranking" : 252,
+		"name" : "Smylie Kaufman",
+		"money" : "$14,454",
+		"tier" : 6,
+		"adjMoney" : 13009,
+		"adjRanking" : 153,
+		"ranking_tiered" : 152,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000738.png",
+		"rankingChg" : "153 (152)"
+	},
+	{
+		"ranking" : 255,
+		"name" : "Charlie Wi",
+		"money" : "$12,735",
+		"tier" : 6,
+		"adjMoney" : 12735,
+		"adjRanking" : 154,
+		"ranking_tiered" : 155,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/0.png",
+		"rankingChg" : "154 (155)"
+	},
+	{
+		"ranking" : 256,
+		"name" : "Omar Uresti",
+		"money" : "$12,690",
+		"tier" : 6,
+		"adjMoney" : 12690,
+		"adjRanking" : 155,
+		"ranking_tiered" : 156,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001478.png",
+		"rankingChg" : "155 (156)"
+	},
+	{
+		"ranking" : 253,
+		"name" : "Tom Lehman",
+		"money" : "$13,952",
+		"tier" : 6,
+		"adjMoney" : 12557,
+		"adjRanking" : 156,
+		"ranking_tiered" : 153,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000841.png",
+		"rankingChg" : "156 (153)"
+	},
+	{
+		"ranking" : 257,
+		"name" : "Brendon de Jonge",
+		"money" : "$11,904",
+		"tier" : 6,
+		"adjMoney" : 11904,
+		"adjRanking" : 157,
+		"ranking_tiered" : 157,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000316.png",
+		"rankingChg" : "157 (157)"
+	},
+	{
+		"ranking" : 258,
+		"name" : "Dicky Pride",
+		"money" : "$11,280",
+		"tier" : 6,
+		"adjMoney" : 10152,
+		"adjRanking" : 158,
+		"ranking_tiered" : 158,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001181.png",
+		"rankingChg" : "158 (158)"
+	},
+	{
+		"ranking" : 259,
+		"name" : "Brian Davis",
+		"money" : "$10,500",
+		"tier" : 6,
+		"adjMoney" : 8400,
+		"adjRanking" : 159,
+		"ranking_tiered" : 159,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000311.png",
+		"rankingChg" : "159 (159)"
+	},
+	{
+		"ranking" : 260,
+		"name" : "John Daly",
+		"money" : "$7,070",
+		"tier" : 6,
+		"adjMoney" : 6363,
+		"adjRanking" : 160,
+		"ranking_tiered" : 160,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000304.png",
+		"rankingChg" : "160 (160)"
+	},
+	{
+		"ranking" : 261,
+		"name" : "Heath Slocum",
+		"money" : "$6,685",
+		"tier" : 6,
+		"adjMoney" : 6016,
+		"adjRanking" : 161,
+		"ranking_tiered" : 161,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40001327.png",
+		"rankingChg" : "161 (161)"
+	},
+	{
+		"ranking" : 262,
+		"name" : "Will MacKenzie",
+		"money" : "$6,510",
+		"tier" : 6,
+		"adjMoney" : 5859,
+		"adjRanking" : 162,
+		"ranking_tiered" : 162,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000903.png",
+		"rankingChg" : "162 (162)"
+	},
+	{
+		"ranking" : 263,
+		"name" : "Ken Duke",
+		"money" : "$6,450",
+		"tier" : 6,
+		"adjMoney" : 5805,
+		"adjRanking" : 163,
+		"ranking_tiered" : 163,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000360.png",
+		"rankingChg" : "163 (163)"
+	},
+	{
+		"ranking" : 264,
+		"name" : "Jason Bohn",
+		"money" : "$5,970",
+		"tier" : 6,
+		"adjMoney" : 5373,
+		"adjRanking" : 164,
+		"ranking_tiered" : 164,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000140.png",
+		"rankingChg" : "164 (164)"
+	},
+	{
+		"ranking" : 265,
+		"name" : "Jonathan Kaye",
+		"money" : "$5,910",
+		"tier" : 6,
+		"adjMoney" : 5319,
+		"adjRanking" : 165,
+		"ranking_tiered" : 165,
+		"photoURL" : "https://s3-us-west-2.amazonaws.com/static.fantasydata.com/headshots/golf/low-res/40000740.png",
+		"rankingChg" : "165 (165)"
+	}
 ]

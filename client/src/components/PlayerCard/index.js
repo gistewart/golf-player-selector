@@ -15,7 +15,7 @@ function PlayerCard(props) {
             <div className="content">
               <ul>
                 <li>
-                  <strong>Group:</strong> {props.group}
+                  <strong>Tier:</strong> {props.group}
                 </li>
                 <li>
                   <strong>Rank:</strong> {props.ranking}

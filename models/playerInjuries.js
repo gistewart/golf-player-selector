@@ -4,7 +4,7 @@ module.exports = function(sequelize, DataTypes) {
     playerID: DataTypes.INTEGER,
     name: DataTypes.STRING,
     active: DataTypes.BOOLEAN,
-    startdate: DataTypes.DATEONLY,
+    startDate: DataTypes.DATEONLY,
     status: DataTypes.STRING,
     bodyPart: DataTypes.STRING,
     expectedReturn: DataTypes.STRING
