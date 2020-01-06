@@ -3,24 +3,33 @@ import PlayerCard from "./components/PlayerCard";
 import PlayerTeam from "./components/PlayerTeam";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import players from "./players.json";
+import API from "./utils/API";
+// import players from "./players.json";
 
-import Players from "./pages/Players";
 import Nav from "./components/Nav";
 
 class App extends Component {
   state = {
-    players,
+    // players,
+    players: [],
     filteredPlayers: [],
     selectedPlayers: [],
     tier: 1
   };
 
+  // Loads all players and sets them to this.state.players
   componentDidMount() {
-    const filteredPlayers = this.state.players.filter(
-      player => player.tier === 1
-    );
-    this.setState({ filteredPlayers });
+    API.getPlayers()
+      .then(res => {
+        const players = res.data;
+        const filteredPlayers = players.filter(player => player.tier === 1);
+
+        this.setState({
+          players: players,
+          filteredPlayers: filteredPlayers
+        });
+      })
+      .catch(err => console.log(err));
   }
 
   selectPlayer = name => {

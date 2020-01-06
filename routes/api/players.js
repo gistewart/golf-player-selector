@@ -5,3 +5,6 @@ const playersController = require("../../controllers/playersController");
 router.route("/").get(playersController.findAll);
 
 module.exports = router;
+
+//requires our db to access our golf model
+// const db = require("../models");

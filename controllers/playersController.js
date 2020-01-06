@@ -1,10 +1,14 @@
 const db = require("../models");
-// Defining methods for the booksController
+// Defining methods for the playersController
 module.exports = {
-  findAll = function (req, res) {
-    db.playerProfiles.findAll({}).then(function(dbPlayers) {
-      res.json(dbPlayers);
-    });
+  findAll: function(req, res) {
+    db.sequelize
+      .query("SELECT * FROM playerRankingsAdj_tbl", {
+        type: db.Sequelize.QueryTypes.SELECT
+      })
+      .then(function(dbPlayers) {
+        res.json(dbPlayers);
+      });
   },
-  someOtherMethod = function (req, res) {}
+  someOtherMethod: function(req, res) {}
 };
