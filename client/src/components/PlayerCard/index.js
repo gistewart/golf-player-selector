@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Row, Col, CardDeck } from "reactstrap";
 
 function PlayerCard(props) {
@@ -32,13 +32,13 @@ function PlayerCard(props) {
               onClick={() => props.removePlayer(props.name)}
               className="remove"
             >
-              n
+              &#10060;
             </span>
             <span
               onClick={() => props.selectPlayer(props.name)}
               className="add"
             >
-              y
+              &#9989;
             </span>
           </div>
         </Col>

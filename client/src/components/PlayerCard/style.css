@@ -12,6 +12,7 @@
   box-shadow: 0 3px 6px rgba(8, 8, 8, 0.534), 0 3px 6px #999;
   text-align: left;
   float: left;
+  /* border: 10px solid red; */
 }
 
 .card > .img-container {
@@ -40,18 +41,18 @@
 
 .card > .remove {
   color: #ff1744;
-  font-size: 48px;
+  font-size: 28px;
   position: absolute;
-  top: -20px;
+  top: 0px;
   left: 5px;
   cursor: pointer;
 }
 
 .card > .add {
   color: #02773c;
-  font-size: 48px;
+  font-size: 36px;
   position: absolute;
-  top: -20px;
+  top: -5px;
   right: 5px;
   cursor: pointer;
 }

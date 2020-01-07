@@ -5,7 +5,6 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import API from "./utils/API";
 // import players from "./players.json";
-
 import Nav from "./components/Nav";
 
 class App extends Component {
@@ -59,30 +58,38 @@ class App extends Component {
   render() {
     if (this.state.selectedPlayers.length < 5) {
       return (
-        <Wrapper>
-          <Title>Make Your Selection from Tier {this.state.tier} Golfers</Title>
-          {this.state.filteredPlayers.slice(0, 4).map(player => (
-            <PlayerCard
-              selectPlayer={this.selectPlayer}
-              removePlayer={this.removePlayer}
-              key={player.name}
-              group={player.tier}
-              ranking={player.rankingChg}
-              name={player.name}
-              image={player.photoURL}
-              money={player.money}
-            />
-          ))}
-        </Wrapper>
+        <div>
+          <Nav />
+          <Wrapper>
+            <Title>
+              Make Your Selection from Tier {this.state.tier} Golfers
+            </Title>
+            {this.state.filteredPlayers.slice(0, 4).map(player => (
+              <PlayerCard
+                selectPlayer={this.selectPlayer}
+                removePlayer={this.removePlayer}
+                key={player.name}
+                group={player.tier}
+                ranking={player.rankingChg}
+                name={player.name}
+                image={player.photoURL}
+                money={player.money}
+              />
+            ))}
+          </Wrapper>
+        </div>
       );
     } else {
       return (
-        <Wrapper>
-          <Title>Selected Players</Title>
-          {this.state.selectedPlayers.map(player => (
-            <PlayerTeam key={player} name={player} />
-          ))}
-        </Wrapper>
+        <div>
+          <Nav />
+          <Wrapper>
+            <Title>Selected Players</Title>
+            {this.state.selectedPlayers.map(player => (
+              <PlayerTeam key={player} name={player} />
+            ))}
+          </Wrapper>
+        </div>
       );
     }
   }
