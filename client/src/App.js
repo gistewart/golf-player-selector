@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import authenticatedAxios from "./utils/AuthenticatedAxios";
 import ProtectedRoute from "./components/ProtectedRoute";
-import LoginPage from "./pages/LoginPage";
+import LoginPage from "./pages/LoginPage/LoginPage";
 import HomePage from "./pages/HomePage/HomePage";
 import UserContext from "./context/UserContext";
 

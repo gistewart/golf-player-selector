@@ -86,7 +86,7 @@ class App extends Component {
       return (
         <div>
           <Nav />
-          <Col sm="9">
+          <Col sm="12">
             <Title>Selected Players</Title>
             <table id="teamTable" align="center">
               <thead>
