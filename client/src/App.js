@@ -1,102 +1,54 @@
 import React, { Component } from "react";
-import PlayerCard from "./components/PlayerCard";
-import PlayerTeam from "./components/PlayerTeam";
-import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
-import API from "./utils/API";
-// import players from "./players.json";
-import Nav from "./components/Nav";
-import { Container, Row, Col, CardDeck } from "reactstrap";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
+import authenticatedAxios from "./utils/AuthenticatedAxios";
+import ProtectedRoute from "./components/ProtectedRoute";
+import LoginPage from "./pages/LoginPage";
+import HomePage from "./pages/HomePage";
+import UserContext from "./context/UserContext";
 
 class App extends Component {
   state = {
-    // players,
-    players: [],
-    filteredPlayers: [],
-    selectedPlayers: [],
-    tier: 1
+    user: null
   };
 
-  // Loads all players and sets them to this.state.players
-  componentDidMount() {
-    API.getPlayers()
-      .then(res => {
-        const players = res.data;
-        const filteredPlayers = players.filter(player => player.tier === 1);
+  setUser = user => {
+    this.setState({ user });
+  };
 
-        this.setState({
-          players: players,
-          filteredPlayers: filteredPlayers
-        });
-      })
-      .catch(err => console.log(err));
+  componentDidMount() {
+    const token = localStorage.getItem("token");
+    if (token) {
+      authenticatedAxios()
+        .get("/api/me")
+        .then(response => this.setUser(response.data));
+    }
   }
 
-  selectPlayer = name => {
-    this.setState({ tier: this.state.tier + 1 }, function() {
-      var joined = this.state.selectedPlayers.concat(name);
-      this.setState({ selectedPlayers: joined });
-      const filteredPlayers = this.state.players.filter(
-        player => player.tier === this.state.tier
-      );
-
-      this.setState({ filteredPlayers });
-    });
-  };
-
-  removePlayer = name => {
-    // Filter this.state.players for players with a name not equal to the name being removed
-    if (this.state.filteredPlayers.length > 1) {
-      const filteredPlayers = this.state.filteredPlayers.filter(
-        player => player.name !== name
-      );
-      // Set this.state.players equal to the new players array
-      this.setState({ filteredPlayers });
-    }
-  };
-
-  // Map over this.state.players and render a PlayerCard component for each player object
   render() {
-    if (this.state.selectedPlayers.length < 5) {
-      return (
+    const { user } = this.state;
+    const setUser = this.setUser;
+    return (
+      <Router>
         <div>
-          <Nav />
-          <Wrapper>
-            <Title>
-              Make Your Selection from Tier {this.state.tier} Golfers
-            </Title>
-            {this.state.filteredPlayers.slice(0, 4).map(player => (
-              <PlayerCard
-                selectPlayer={this.selectPlayer}
-                removePlayer={this.removePlayer}
-                key={player.name}
-                group={player.tier}
-                ranking={player.rankingChg}
-                name={player.name}
-                image={player.photoURL}
-                money={player.money}
-              />
-            ))}
-          </Wrapper>
+          <header>
+            <nav>
+              <Link to="/">Home</Link> | <Link to="/login">Login</Link>
+            </nav>
+          </header>
+
+          <UserContext.Provider
+            value={{
+              user: user,
+              setUser: setUser
+            }}
+          >
+            <ProtectedRoute exact path="/" component={HomePage} />
+            <Route exact path="/login" component={LoginPage} />
+          </UserContext.Provider>
         </div>
-      );
-    } else {
-      return (
-        <div>
-          <Nav />
-          <Wrapper>
-            <Col sm="9">
-              <Title>Selected Players</Title>
-              <Container>
-                {this.state.selectedPlayers.map(player => (
-                  <PlayerTeam key={player} name={player} />
-                ))}
-              </Container>
-            </Col>
-          </Wrapper>
-        </div>
-      );
-    }
+      </Router>
+    );
   }
 }
 

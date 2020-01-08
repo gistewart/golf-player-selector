@@ -51,4 +51,10 @@ router.route("/signup").post(function(req, res) {
     });
 });
 
+router.route("/me", isAuthenticated, function(req, res) {
+  db.User.findByPk(req.user.id).then(dbUser => {
+    res.json(dbUser);
+  });
+});
+
 module.exports = router;

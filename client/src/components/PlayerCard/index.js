@@ -3,41 +3,35 @@ import "./style.css";
 // import "bootstrap/dist/css/bootstrap.min.css";
 import { Container, Row, Col, CardDeck } from "reactstrap";
 
-function PlayerCard(props) {
+function PlayerCard({ removePlayer, selectPlayer, ...player }) {
   return (
     <CardDeck>
       <Row>
         <Col sm="4">
           <div className="card">
             <div className="img-container">
-              <img alt={props.name} src={props.image} />
+              <img alt={player.name} src={player.image} />
             </div>
             <div className="content">
               <ul>
                 <li>
-                  <strong>Tier:</strong> {props.group}
+                  <strong>Tier:</strong> {player.group}
                 </li>
                 <li>
-                  <strong>Rank:</strong> {props.ranking}
+                  <strong>Rank:</strong> {player.ranking}
                 </li>
                 <li>
-                  <strong>Name:</strong> {props.name}
+                  <strong>Name:</strong> {player.name}
                 </li>
                 <li>
-                  <strong>Money:</strong> {props.money}
+                  <strong>Money:</strong> {player.money}
                 </li>
               </ul>
             </div>
-            <span
-              onClick={() => props.removePlayer(props.name)}
-              className="remove"
-            >
+            <span onClick={() => removePlayer(player.name)} className="remove">
               &#10060;
             </span>
-            <span
-              onClick={() => props.selectPlayer(props.name)}
-              className="add"
-            >
+            <span onClick={() => selectPlayer(player)} className="add">
               &#9989;
             </span>
           </div>
