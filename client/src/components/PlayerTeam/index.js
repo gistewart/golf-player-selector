@@ -5,9 +5,12 @@ import { Container, Row, Col, CardDeck } from "reactstrap";
 
 function PlayerTeam(props) {
   return (
-    <table className="table">
-      <tr>{props.name}</tr>
-    </table>
+    <>
+      <tr key={props.name}>
+        <td>{props.group}</td>
+        <td>{props.name}</td>
+      </tr>
+    </>
   );
 }
 

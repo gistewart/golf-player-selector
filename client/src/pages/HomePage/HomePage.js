@@ -1,11 +1,11 @@
 import React, { Component } from "react";
-import PlayerCard from "../components/PlayerCard";
-import PlayerTeam from "../components/PlayerTeam";
-import Wrapper from "../components/Wrapper";
-import Title from "../components/Title";
-import API from "../utils/API";
-// import players from "./players.json";
-import Nav from "../components/Nav";
+import PlayerCard from "../../components/PlayerCard";
+import PlayerTeam from "../../components/PlayerTeam";
+import Wrapper from "../../components/Wrapper";
+import Title from "../../components/Title";
+import API from "../../utils/API";
+import "./style.css";
+import Nav from "../../components/Nav";
 import { Container, Row, Col, CardDeck } from "reactstrap";
 
 class App extends Component {
@@ -86,10 +86,14 @@ class App extends Component {
       return (
         <div>
           <Nav />
-          <Wrapper>
-            <Col sm="9">
-              <Title>Selected Players</Title>
-              <Container>
+          <Col sm="9">
+            <Title>Selected Players</Title>
+            <table id="teamTable" align="center">
+              <thead>
+                <td>Group</td>
+                <td>Player</td>
+              </thead>
+              <tbody>
                 {this.state.selectedPlayers.map(player => (
                   <PlayerTeam
                     key={player.name}
@@ -97,9 +101,9 @@ class App extends Component {
                     group={player.group}
                   />
                 ))}
-              </Container>
-            </Col>
-          </Wrapper>
+              </tbody>
+            </table>
+          </Col>
         </div>
       );
     }
