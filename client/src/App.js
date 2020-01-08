@@ -6,6 +6,7 @@ import Title from "./components/Title";
 import API from "./utils/API";
 // import players from "./players.json";
 import Nav from "./components/Nav";
+import { Container, Row, Col, CardDeck } from "reactstrap";
 
 class App extends Component {
   state = {
@@ -84,10 +85,14 @@ class App extends Component {
         <div>
           <Nav />
           <Wrapper>
-            <Title>Selected Players</Title>
-            {this.state.selectedPlayers.map(player => (
-              <PlayerTeam key={player} name={player} />
-            ))}
+            <Col sm="9">
+              <Title>Selected Players</Title>
+              <Container>
+                {this.state.selectedPlayers.map(player => (
+                  <PlayerTeam key={player} name={player} />
+                ))}
+              </Container>
+            </Col>
           </Wrapper>
         </div>
       );
