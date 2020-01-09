@@ -65,7 +65,8 @@ class App extends Component {
           <Nav />
           <Wrapper>
             <Title>
-              Make Your Selection from Tier {this.state.tier} Golfers
+              Make Your Selection from{" "}
+              <span className="font-weight-bold">Tier {this.state.tier} </span>
             </Title>
             {this.state.filteredPlayers.slice(0, 4).map(player => (
               <PlayerCard
@@ -90,7 +91,7 @@ class App extends Component {
             <Title>Selected Players</Title>
             <table id="teamTable" align="center">
               <thead>
-                <td>Group</td>
+                <td>Tier</td>
                 <td>Player</td>
               </thead>
               <tbody>

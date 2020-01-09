@@ -36,7 +36,6 @@ class LoginForm extends Component {
         <form className="login-form" onSubmit={this.submitHandler}>
           <p className="mb-5"></p>
           <FormGroup>
-            {/* <Label>username</Label> */}
             <Input
               type="text"
               name="username"
@@ -46,7 +45,6 @@ class LoginForm extends Component {
             />
           </FormGroup>
           <FormGroup>
-            {/* <Label>password</Label> */}
             <Input
               type="password"
               name="password"
