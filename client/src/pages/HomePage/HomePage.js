@@ -6,7 +6,7 @@ import Title from "../../components/Title";
 import API from "../../utils/API";
 import "./style.css";
 import Nav from "../../components/Nav";
-import { Container, Row, Col, CardDeck } from "reactstrap";
+import { Col } from "reactstrap";
 
 class App extends Component {
   state = {

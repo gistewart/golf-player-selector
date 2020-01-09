@@ -3,7 +3,7 @@ import { withRouter } from "react-router-dom";
 import UserContext from "../../context/UserContext";
 import Auth from "../../utils/Auth";
 import "./style.css";
-import { Button, Form, FormGroup, Label, Input } from "reactstrap";
+import { Button, FormGroup, Input } from "reactstrap";
 
 class LoginForm extends Component {
   static contextType = UserContext;
@@ -31,34 +31,35 @@ class LoginForm extends Component {
 
   render() {
     return (
-      <form className="login-form" onSubmit={this.submitHandler}>
-        <h3>Golf Player Selector</h3>
-        <h4>Welcome!</h4>
-        <p className="mb-5"></p>
-        <FormGroup>
-          <Label>username</Label>
-          <Input
-            type="text"
-            name="username"
-            placeholder="username"
-            value={this.state.username}
-            onChange={this.changeHandler}
-          />
-        </FormGroup>
-        <FormGroup>
-          <Label>password</Label>
-          <Input
-            type="password"
-            name="password"
-            placeholder="password"
-            value={this.state.password}
-            onChange={this.changeHandler}
-          />
-          <Button className="mt-3 btn-lg btn-dark btn-block" type="submit">
-            Submit
-          </Button>
-        </FormGroup>
-      </form>
+      <>
+        <h3 className="heading">Golf Player Selector</h3>
+        <form className="login-form" onSubmit={this.submitHandler}>
+          <p className="mb-5"></p>
+          <FormGroup>
+            {/* <Label>username</Label> */}
+            <Input
+              type="text"
+              name="username"
+              placeholder="username"
+              value={this.state.username}
+              onChange={this.changeHandler}
+            />
+          </FormGroup>
+          <FormGroup>
+            {/* <Label>password</Label> */}
+            <Input
+              type="password"
+              name="password"
+              placeholder="password"
+              value={this.state.password}
+              onChange={this.changeHandler}
+            />
+            <Button className="mt-3 btn-lg btn-dark btn-block" type="submit">
+              Submit
+            </Button>
+          </FormGroup>
+        </form>
+      </>
     );
   }
 }
