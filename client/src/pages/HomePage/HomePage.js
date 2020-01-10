@@ -76,7 +76,7 @@ class App extends Component {
                 group={player.tier}
                 ranking={player.rankingChg}
                 name={player.name}
-                image={player.photoURL}
+                image={player.image}
                 money={player.money}
               />
             ))}
