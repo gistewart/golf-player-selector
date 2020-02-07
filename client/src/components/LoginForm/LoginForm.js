@@ -37,6 +37,7 @@ class LoginForm extends Component {
           <p className="mb-5"></p>
           <FormGroup>
             <Input
+              style={{ opacity: 0.8 }}
               type="text"
               name="username"
               placeholder="username"
@@ -46,13 +47,18 @@ class LoginForm extends Component {
           </FormGroup>
           <FormGroup>
             <Input
+              style={{ opacity: 0.8 }}
               type="password"
               name="password"
               placeholder="password"
               value={this.state.password}
               onChange={this.changeHandler}
             />
-            <Button className="mt-3 btn-lg btn-dark btn-block" type="submit">
+            <Button
+              className="mt-3 btn-lg btn-dark btn-block"
+              type="submit"
+              style={{ opacity: 0.8 }}
+            >
               Submit
             </Button>
           </FormGroup>

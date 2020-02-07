@@ -6,7 +6,7 @@ import Title from "../../components/Title";
 import API from "../../utils/API";
 import "./style.css";
 import Nav from "../../components/Nav";
-import { Col } from "reactstrap";
+import { Container, Col, Row } from "reactstrap";
 
 class App extends Component {
   state = {
@@ -63,48 +63,60 @@ class App extends Component {
       return (
         <div>
           <Nav />
-          <Wrapper>
-            <Title>
-              Make Your Selection from{" "}
-              <span className="font-weight-bold">Tier {this.state.tier} </span>
-            </Title>
-            {this.state.filteredPlayers.slice(0, 4).map(player => (
-              <PlayerCard
-                selectPlayer={this.selectPlayer}
-                removePlayer={this.removePlayer}
-                key={player.name}
-                group={player.tier}
-                ranking={player.rankingChg}
-                name={player.name}
-                image={player.image}
-                money={player.money}
-              />
-            ))}
-          </Wrapper>
+          <Container>
+            <Wrapper style={{ opacity: 0.2 }}>
+              <Row>
+                <Title className="title">
+                  Make Your Selection from{" "}
+                  <span className="font-weight-bold">
+                    Tier {this.state.tier}{" "}
+                  </span>
+                </Title>
+              </Row>
+              <Row>
+                {this.state.filteredPlayers.slice(0, 4).map(player => (
+                  <PlayerCard
+                    selectPlayer={this.selectPlayer}
+                    removePlayer={this.removePlayer}
+                    key={player.name}
+                    group={player.tier}
+                    ranking={player.rankingChg}
+                    name={player.name}
+                    image={player.image}
+                    money={player.money}
+                  />
+                ))}
+              </Row>
+            </Wrapper>
+          </Container>
         </div>
       );
     } else {
       return (
         <div>
           <Nav />
-          <Col sm="12">
-            <Title>Selected Players</Title>
-            <table id="teamTable" align="center">
-              <thead>
-                <td>Tier</td>
-                <td>Player</td>
-              </thead>
-              <tbody>
-                {this.state.selectedPlayers.map(player => (
-                  <PlayerTeam
-                    key={player.name}
-                    name={player.name}
-                    group={player.group}
-                  />
-                ))}
-              </tbody>
-            </table>
-          </Col>
+          <Container>
+            <Wrapper>
+              <Row>
+                <Title className="title">Selected Players</Title>
+                <table id="teamTable" align="center">
+                  <thead>
+                    <td>Tier</td>
+                    <td>Player</td>
+                  </thead>
+                  <tbody>
+                    {this.state.selectedPlayers.map(player => (
+                      <PlayerTeam
+                        key={player.name}
+                        name={player.name}
+                        group={player.group}
+                      />
+                    ))}
+                  </tbody>
+                </table>
+              </Row>
+            </Wrapper>
+          </Container>
         </div>
       );
     }
