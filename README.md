@@ -27,4 +27,4 @@ This is an original app that was built for the final project during my attendanc
 
 ## Deployed link
 
-https://golf-player-selector.herokuapp.com/
+https://golf-player-selector.herokuapp.com/login
