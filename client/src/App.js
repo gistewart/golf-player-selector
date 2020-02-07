@@ -6,6 +6,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import LoginPage from "./pages/LoginPage/LoginPage";
 import HomePage from "./pages/HomePage/HomePage";
 import UserContext from "./context/UserContext";
+import "./App.css";
 
 class App extends Component {
   state = {
@@ -32,8 +33,14 @@ class App extends Component {
       <Router>
         <div>
           <header>
-            <nav>
-              <Link to="/">Home</Link> | <Link to="/login">Login</Link>
+            <nav className="link">
+              <Link to="/" className="link">
+                Home
+              </Link>{" "}
+              |{" "}
+              <Link to="/login" className="link">
+                Login
+              </Link>
             </nav>
           </header>
 

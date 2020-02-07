@@ -1,6 +1,7 @@
 const seedPlayerProfiles = require("./seedPlayerProfiles");
 const seedPlayerInjuries = require("./seedPlayerInjuries");
-const seedPlayerRankings = require("./seedPlayerRankings");
+// const seedPlayerRankings = require("./seedPlayerRankings");
+const seedPlayerRankingsnonworking = require("./seedPlayerRankingsnonworking");
 const seedPlayerProduction = require("./seedPlayerProduction");
 const seedPlayerForm = require("./seedPlayerForm");
 const seedPlayerImage = require("./seedPlayerImage");
@@ -17,7 +18,7 @@ db.sequelize
     return seedPlayerInjuries();
   })
   .then(function() {
-    return seedPlayerRankings();
+    return seedPlayerRankingsnonworking();
   })
   .then(function() {
     return seedPlayerProduction();
@@ -27,10 +28,11 @@ db.sequelize
   })
   .then(function() {
     return seedPlayerImage();
-  })
-  .then(function() {
-    db.sequelize.close();
   });
+// })}
+// .then(function() {
+//   db.sequelize.close();
+// });
 
 // Run this file on heroku deployment
 // heroku-postbuild in package.json

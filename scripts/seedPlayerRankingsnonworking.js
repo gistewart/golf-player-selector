@@ -2,9 +2,9 @@ var db = require("../models");
 var axios = require("axios");
 var cheerio = require("cheerio");
 
-module.exports = function() {
-  const resultsArray = [];
+const playerRankings = [];
 
+module.exports = function() {
   axios
     .get("https://www.pgatour.com/content/pgatour/stats/stat.109.y2019.html")
     .then(function(response) {
@@ -25,10 +25,10 @@ module.exports = function() {
           .text()
           .trim();
 
-        resultsArray.push(result);
+        playerRankings.push(result);
       });
-      // console.log("--------resultsArray----------");
-      // console.log(resultsArray);
-      // db.playerRankings.bulkCreate(resultsArray);
+      // console.log("--------playerRankings----------");
+      // console.log(playerRankings);
+      return db.playerRankings.bulkCreate(playerRankings);
     });
 };
